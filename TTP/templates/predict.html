@@ -1,0 +1,27 @@
+{% extends 'admbase.html' %}
+{% block content %}
+<div class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card p-4 shadow">
+                {% if stz %}
+                    <h1 class="text-center">The result is :<b style='color:red'> {{ msg }}</b></h1>
+                {% else %}
+					<h1 class="text-center">{{ msg }}</h1>
+                    <h1 class="text-center mb-4" style="color: red;">Enter your feature data seperated by commas : </h1>
+                    <!-- <h2 class="text-center mb-4" style="color: blue;">Your dataset will be trained using Naive-bayes, Neural Networks, KNN, Decision Tree, Random Forest, SVM, and Logistic Regression.</h2> -->
+                {% endif %}
+                <form action="/predictData/" method="POST" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <div class="mb-3">
+                        <input type="text" name="listInput" id="listInput" class="form-control" required>
+                    </div>
+                    <div class="text-center mt-4">
+                        <input type="submit" class="btn btn-primary" name="predict" value="Predict">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

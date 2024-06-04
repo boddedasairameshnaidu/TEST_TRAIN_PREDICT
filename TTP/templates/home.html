@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% block content %}
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{% comment %} <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"> {% endcomment %}
+    
+</head>
+<body>
+	<div class="container my-5">
+        <h1 class="text-center mb-5" style="color: red;font-family:playfair Display">TRAIN TEST PREDICT</h1>
+        <div class="row mb-4">
+            <div class="col-md-6 text-center mb-4">
+                <a href="/admlogin">
+                    <img src="{% static 'assets/images/train.png' %}" class="img-fluid" alt="Image 1">   
+                </a>
+                <h2 style="color: blue;"> TRAIN YOUR DATA</h2>
+            </div>
+            <div class="col-md-6 text-center mb-4">
+                <a href="/admlogin">
+                    <img src="{% static 'assets/images/Testdata.png' %}" class="img-fluid" alt="Image 2">
+                    
+                </a>
+                <h2 style="color: blue;">TEST YOUR DATA</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 text-center mb-4">
+                <a href="/admlogin">
+                    <img src="{% static 'assets/images/prediction.jpg' %}" class="img-fluid" alt="Image 3">
+                    
+                </a>
+                <h2 style="color: blue;">PREDICT BY GIVING YOUR OWN INPUT</h2>
+            </div>
+            <div class="col-md-6 text-center mb-4">
+                <a href="/admlogin">
+                    <img src="{% static 'assets/images/results.jpg' %}" class="img-fluid" alt="Image 4">
+                    
+                </a>
+                <h2 style="color: blue;">VIEW RESULTS</h2>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+{% endblock %}

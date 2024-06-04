@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Register</title>
+</head>
+<body>
+	<div class="container my-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card p-4">
+                    <h1 class="text-center mb-4">REGISTER</h1>
+                    <form action="/registerstore/" method="POST">
+                        {% csrf_token %}
+                        <div class="mb-3">
+                            <input type="text" name="name" class="form-control" placeholder="Enter Your Name" required>
+                        </div>
+                        <div class="mb-3">
+                            <input type="email" name="email" class="form-control" placeholder="Enter Your Email" required>
+                        </div>
+                        <div class="mb-3">
+                            <input type="password" name="pwd" class="form-control" placeholder="Enter Your Password" required>
+                        </div>
+                        <div class="text-center">
+                            <input type="submit" class="btn btn-primary" value="REGISTER">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+{% endblock %}
