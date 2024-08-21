@@ -1,6 +1,4 @@
 from django.shortcuts import render
-from django.http import HttpResponseBadRequest
-from django.http import HttpResponse, Http404
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.neural_network import MLPClassifier
 from sklearn.neighbors import KNeighborsClassifier
@@ -17,8 +15,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import pickle
 import numpy as np
-import os
-# Create your views here.
 
 def is_text_column(series):
     return pd.api.types.is_string_dtype(series)

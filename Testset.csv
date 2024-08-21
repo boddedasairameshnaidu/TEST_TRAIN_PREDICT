@@ -1,0 +1,1365 @@
+Disease,Sym
+Dimorphic hemmorhoids(piles), bloody_stool pain_during_bowel_movements
+Heart attack, sweating
+Varicose veins, cramps swollen_legs bruising fatigue
+Hypothyroidism, fatigue mood_swings depression cold_hands_and_feets puffy_face_and_eyes enlarged_thyroid weight_gain lethargy abnormal_menstruation irritability
+Hyperthyroidism, sweating excessive_hunger fast_heart_rate muscle_weakness weight_loss mood_swings diarrhoea restlessness
+Hypoglycemia, excessive_hunger irritability headache drying_and_tingling_lips blurred_and_distorted_vision nausea slurred_speech anxiety vomiting
+Osteoarthristis, hip_joint_pain neck_pain swelling_joints
+Arthritis, stiff_neck swelling_joints
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements vomiting nausea
+Acne, blackheads
+Urinary tract infection, continuous_feel_of_urine
+Psoriasis, skin_peeling silver_like_dusting skin_rash
+Impetigo, high_fever yellow_crust_ooze
+Fungal infection, skin_rash
+Allergy, watering_from_eyes
+GERD, cough stomach_pain acidity
+Chronic cholestasis, itching yellowing_of_eyes nausea abdominal_pain
+Drug Reaction, itching skin_rash
+Peptic ulcer diseae, indigestion loss_of_appetite vomiting
+AIDS, patches_in_throat
+Diabetes , restlessness polyuria weight_loss irregular_sugar_level fatigue obesity lethargy
+Gastroenteritis, dehydration
+Bronchial Asthma, breathlessness mucoid_sputum fatigue
+Hypertension , dizziness loss_of_balance
+Migraine, stiff_neck blurred_and_distorted_vision acidity indigestion irritability headache
+Cervical spondylosis, back_pain weakness_in_limbs
+Paralysis (brain hemorrhage), altered_sensorium
+Jaundice, abdominal_pain itching high_fever vomiting yellowish_skin
+Malaria, sweating vomiting high_fever nausea muscle_pain
+Chicken pox, high_fever red_spots_over_body swelled_lymph_nodes itching skin_rash headache loss_of_appetite mild_fever
+Dengue, nausea joint_pain skin_rash back_pain loss_of_appetite high_fever muscle_pain malaise red_spots_over_body vomiting chills
+Typhoid, vomiting fatigue nausea headache abdominal_pain chills toxic_look_(typhos) constipation
+hepatitis A, nausea muscle_pain joint_pain dark_urine vomiting diarrhoea mild_fever yellowish_skin
+Hepatitis B, dark_urine malaise fatigue yellowish_skin receiving_unsterile_injections receiving_blood_transfusion abdominal_pain yellow_urine yellowing_of_eyes
+Hepatitis C, yellowing_of_eyes nausea loss_of_appetite
+Hepatitis D, fatigue joint_pain dark_urine abdominal_pain yellowish_skin yellowing_of_eyes
+Hepatitis E, high_fever yellowish_skin joint_pain acute_liver_failure stomach_bleeding nausea fatigue coma dark_urine loss_of_appetite
+Alcoholic hepatitis, fluid_overload distention_of_abdomen history_of_alcohol_consumption vomiting
+Tuberculosis, sweating phlegm swelled_lymph_nodes cough chills fatigue high_fever malaise blood_in_sputum vomiting breathlessness loss_of_appetite mild_fever
+Common Cold, continuous_sneezing headache high_fever runny_nose congestion throat_irritation malaise loss_of_smell muscle_pain fatigue phlegm swelled_lymph_nodes chills redness_of_eyes
+Pneumonia, phlegm fatigue chills sweating cough chest_pain fast_heart_rate breathlessness
+Dimorphic hemmorhoids(piles), constipation bloody_stool
+Heart attack, sweating
+Varicose veins, obesity cramps swollen_legs fatigue
+Hypothyroidism, dizziness depression weight_gain puffy_face_and_eyes irritability mood_swings lethargy swollen_extremeties cold_hands_and_feets brittle_nails
+Hyperthyroidism, irritability diarrhoea fast_heart_rate abnormal_menstruation fatigue mood_swings muscle_weakness sweating
+Hypoglycemia, irritability fatigue palpitations headache sweating vomiting excessive_hunger nausea slurred_speech
+Osteoarthristis, joint_pain neck_pain swelling_joints
+Arthritis, painful_walking muscle_weakness
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance nausea spinning_movements
+Acne, skin_rash
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, inflammatory_nails joint_pain skin_rash
+Impetigo, yellow_crust_ooze blister
+Fungal infection, skin_rash
+Allergy, continuous_sneezing
+GERD, cough stomach_pain vomiting
+Chronic cholestasis, abdominal_pain itching yellowish_skin yellowing_of_eyes
+Drug Reaction, stomach_pain burning_micturition
+Peptic ulcer diseae, loss_of_appetite indigestion passage_of_gases
+AIDS, patches_in_throat
+Diabetes , obesity excessive_hunger blurred_and_distorted_vision irregular_sugar_level restlessness increased_appetite fatigue
+Gastroenteritis, dehydration
+Bronchial Asthma, fatigue mucoid_sputum family_history
+Hypertension , loss_of_balance headache
+Migraine, acidity visual_disturbances indigestion depression headache irritability
+Cervical spondylosis, neck_pain weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting
+Jaundice, yellowish_skin high_fever vomiting weight_loss itching
+Malaria, chills high_fever nausea sweating vomiting
+Chicken pox, skin_rash headache lethargy malaise fatigue itching red_spots_over_body swelled_lymph_nodes
+Dengue, skin_rash malaise pain_behind_the_eyes fatigue headache vomiting muscle_pain red_spots_over_body chills loss_of_appetite high_fever
+Typhoid, nausea vomiting high_fever belly_pain toxic_look_(typhos) diarrhoea abdominal_pain headache
+hepatitis A, loss_of_appetite abdominal_pain nausea muscle_pain yellowing_of_eyes vomiting joint_pain mild_fever
+Hepatitis B, abdominal_pain malaise itching yellowing_of_eyes dark_urine yellowish_skin fatigue receiving_unsterile_injections loss_of_appetite
+Hepatitis C, fatigue loss_of_appetite family_history
+Hepatitis D, yellowing_of_eyes joint_pain nausea vomiting abdominal_pain fatigue
+Hepatitis E, yellowish_skin stomach_bleeding vomiting dark_urine joint_pain yellowing_of_eyes loss_of_appetite coma high_fever nausea
+Alcoholic hepatitis, vomiting distention_of_abdomen history_of_alcohol_consumption swelling_of_stomach
+Tuberculosis, cough yellowing_of_eyes sweating weight_loss blood_in_sputum high_fever fatigue chills chest_pain vomiting breathlessness swelled_lymph_nodes malaise
+Common Cold, congestion redness_of_eyes chest_pain muscle_pain continuous_sneezing cough malaise swelled_lymph_nodes runny_nose loss_of_smell high_fever chills sinus_pressure headache
+Pneumonia, fatigue sweating chills high_fever cough rusty_sputum malaise breathlessness
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements pain_in_anal_region
+Heart attack, breathlessness
+Varicose veins, obesity swollen_blood_vessels fatigue prominent_veins_on_calf
+Hypothyroidism, brittle_nails puffy_face_and_eyes weight_gain abnormal_menstruation enlarged_thyroid dizziness depression cold_hands_and_feets swollen_extremeties lethargy
+Hyperthyroidism, diarrhoea mood_swings fatigue sweating fast_heart_rate muscle_weakness abnormal_menstruation weight_loss
+Hypoglycemia, drying_and_tingling_lips vomiting excessive_hunger nausea fatigue blurred_and_distorted_vision irritability anxiety slurred_speech
+Osteoarthristis, neck_pain joint_pain painful_walking
+Arthritis, swelling_joints painful_walking
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements unsteadiness loss_of_balance
+Acne, pus_filled_pimples
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, skin_rash inflammatory_nails silver_like_dusting
+Impetigo, skin_rash high_fever
+Fungal infection, skin_rash
+Allergy, continuous_sneezing
+GERD, cough chest_pain vomiting
+Chronic cholestasis, abdominal_pain itching yellowing_of_eyes loss_of_appetite
+Drug Reaction, itching stomach_pain
+Peptic ulcer diseae, abdominal_pain indigestion internal_itching
+AIDS, patches_in_throat
+Diabetes , obesity weight_loss blurred_and_distorted_vision increased_appetite lethargy restlessness excessive_hunger
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, family_history high_fever mucoid_sputum
+Hypertension , dizziness lack_of_concentration
+Migraine, depression irritability blurred_and_distorted_vision stiff_neck acidity headache
+Cervical spondylosis, neck_pain dizziness
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, high_fever yellowish_skin abdominal_pain itching dark_urine
+Malaria, headache high_fever nausea sweating chills
+Chicken pox, red_spots_over_body loss_of_appetite malaise headache fatigue high_fever itching mild_fever
+Dengue, vomiting nausea muscle_pain joint_pain headache red_spots_over_body back_pain skin_rash fatigue chills malaise
+Typhoid, high_fever fatigue diarrhoea belly_pain vomiting toxic_look_(typhos) chills abdominal_pain
+hepatitis A, mild_fever abdominal_pain yellowish_skin muscle_pain vomiting yellowing_of_eyes loss_of_appetite joint_pain
+Hepatitis B, yellow_urine dark_urine yellowing_of_eyes fatigue yellowish_skin receiving_unsterile_injections abdominal_pain receiving_blood_transfusion itching
+Hepatitis C, family_history yellowish_skin loss_of_appetite
+Hepatitis D, vomiting abdominal_pain nausea joint_pain loss_of_appetite yellowish_skin
+Hepatitis E, high_fever abdominal_pain yellowing_of_eyes stomach_bleeding joint_pain acute_liver_failure fatigue vomiting dark_urine yellowish_skin
+Alcoholic hepatitis, fluid_overload yellowish_skin history_of_alcohol_consumption swelling_of_stomach
+Tuberculosis, chest_pain phlegm loss_of_appetite malaise swelled_lymph_nodes mild_fever breathlessness chills vomiting weight_loss high_fever yellowing_of_eyes cough
+Common Cold, muscle_pain chest_pain cough phlegm swelled_lymph_nodes high_fever throat_irritation chills headache runny_nose fatigue redness_of_eyes loss_of_smell malaise
+Pneumonia, cough chills fast_heart_rate malaise fatigue phlegm chest_pain high_fever
+Dimorphic hemmorhoids(piles), constipation pain_during_bowel_movements
+Heart attack, chest_pain
+Varicose veins, cramps fatigue swollen_blood_vessels obesity
+Hypothyroidism, abnormal_menstruation lethargy dizziness cold_hands_and_feets depression mood_swings swollen_extremeties fatigue enlarged_thyroid puffy_face_and_eyes
+Hyperthyroidism, weight_loss fast_heart_rate diarrhoea abnormal_menstruation mood_swings irritability restlessness muscle_weakness
+Hypoglycemia, blurred_and_distorted_vision drying_and_tingling_lips nausea irritability sweating excessive_hunger anxiety vomiting fatigue
+Osteoarthristis, knee_pain joint_pain painful_walking
+Arthritis, muscle_weakness painful_walking
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance spinning_movements unsteadiness
+Acne, pus_filled_pimples
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, silver_like_dusting skin_peeling skin_rash
+Impetigo, red_sore_around_nose blister
+Fungal infection, dischromic_patches
+Allergy, shivering
+GERD, stomach_pain cough acidity
+Chronic cholestasis, yellowish_skin yellowing_of_eyes abdominal_pain vomiting
+Drug Reaction, spotting_urination stomach_pain
+Peptic ulcer diseae, indigestion loss_of_appetite internal_itching
+AIDS, patches_in_throat
+Diabetes , increased_appetite blurred_and_distorted_vision weight_loss restlessness lethargy fatigue polyuria
+Gastroenteritis, vomiting
+Bronchial Asthma, breathlessness fatigue family_history
+Hypertension , headache dizziness
+Migraine, indigestion blurred_and_distorted_vision headache stiff_neck acidity excessive_hunger
+Cervical spondylosis, dizziness loss_of_balance
+Paralysis (brain hemorrhage), vomiting
+Jaundice, fatigue weight_loss abdominal_pain dark_urine yellowish_skin
+Malaria, sweating high_fever nausea vomiting headache
+Chicken pox, loss_of_appetite malaise headache fatigue lethargy red_spots_over_body skin_rash mild_fever
+Dengue, headache chills pain_behind_the_eyes nausea joint_pain back_pain loss_of_appetite fatigue malaise high_fever skin_rash
+Typhoid, belly_pain abdominal_pain vomiting fatigue headache chills nausea constipation
+hepatitis A, mild_fever nausea yellowish_skin joint_pain diarrhoea dark_urine yellowing_of_eyes vomiting
+Hepatitis B, loss_of_appetite yellow_urine yellowish_skin malaise fatigue receiving_blood_transfusion dark_urine itching abdominal_pain
+Hepatitis C, nausea loss_of_appetite yellowish_skin
+Hepatitis D, yellowish_skin vomiting yellowing_of_eyes joint_pain nausea abdominal_pain
+Hepatitis E, coma high_fever dark_urine loss_of_appetite yellowish_skin joint_pain stomach_bleeding fatigue nausea acute_liver_failure
+Alcoholic hepatitis, yellowish_skin vomiting swelling_of_stomach abdominal_pain
+Tuberculosis, weight_loss malaise breathlessness swelled_lymph_nodes blood_in_sputum vomiting cough fatigue high_fever phlegm chills sweating yellowing_of_eyes
+Common Cold, runny_nose sinus_pressure continuous_sneezing phlegm chest_pain headache swelled_lymph_nodes muscle_pain malaise throat_irritation congestion cough chills fatigue
+Pneumonia, cough chills phlegm chest_pain malaise breathlessness rusty_sputum fast_heart_rate
+Dimorphic hemmorhoids(piles), irritation_in_anus pain_during_bowel_movements
+Heart attack, vomiting
+Varicose veins, prominent_veins_on_calf fatigue obesity swollen_blood_vessels
+Hypothyroidism, puffy_face_and_eyes irritability weight_gain swollen_extremeties brittle_nails cold_hands_and_feets abnormal_menstruation enlarged_thyroid depression fatigue
+Hyperthyroidism, weight_loss sweating mood_swings fatigue muscle_weakness excessive_hunger fast_heart_rate restlessness
+Hypoglycemia, nausea anxiety headache sweating irritability excessive_hunger drying_and_tingling_lips fatigue palpitations
+Osteoarthristis, swelling_joints neck_pain knee_pain
+Arthritis, painful_walking movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance unsteadiness vomiting
+Acne, skin_rash
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, skin_rash joint_pain silver_like_dusting
+Impetigo, yellow_crust_ooze blister
+Fungal infection, itching
+Allergy, watering_from_eyes
+GERD, acidity ulcers_on_tongue stomach_pain
+Chronic cholestasis, yellowing_of_eyes nausea itching loss_of_appetite
+Drug Reaction, itching skin_rash
+Peptic ulcer diseae, loss_of_appetite internal_itching indigestion
+AIDS, high_fever
+Diabetes , lethargy polyuria obesity fatigue increased_appetite irregular_sugar_level blurred_and_distorted_vision
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, breathlessness mucoid_sputum cough
+Hypertension , chest_pain dizziness
+Migraine, depression blurred_and_distorted_vision acidity indigestion stiff_neck visual_disturbances
+Cervical spondylosis, dizziness back_pain
+Paralysis (brain hemorrhage), headache
+Jaundice, weight_loss abdominal_pain fatigue dark_urine high_fever
+Malaria, chills headache diarrhoea muscle_pain high_fever
+Chicken pox, fatigue mild_fever malaise swelled_lymph_nodes high_fever skin_rash loss_of_appetite lethargy
+Dengue, loss_of_appetite skin_rash chills vomiting headache pain_behind_the_eyes malaise high_fever red_spots_over_body muscle_pain joint_pain
+Typhoid, nausea fatigue constipation vomiting high_fever diarrhoea belly_pain toxic_look_(typhos)
+hepatitis A, loss_of_appetite abdominal_pain vomiting joint_pain yellowing_of_eyes mild_fever diarrhoea dark_urine
+Hepatitis B, yellowish_skin abdominal_pain fatigue receiving_blood_transfusion malaise dark_urine yellowing_of_eyes lethargy yellow_urine
+Hepatitis C, nausea yellowish_skin yellowing_of_eyes
+Hepatitis D, fatigue dark_urine nausea yellowing_of_eyes loss_of_appetite vomiting
+Hepatitis E, nausea loss_of_appetite joint_pain fatigue abdominal_pain dark_urine coma stomach_bleeding yellowish_skin vomiting
+Alcoholic hepatitis, yellowish_skin distention_of_abdomen history_of_alcohol_consumption swelling_of_stomach
+Tuberculosis, chills cough yellowing_of_eyes high_fever fatigue mild_fever blood_in_sputum sweating swelled_lymph_nodes phlegm loss_of_appetite malaise chest_pain
+Common Cold, muscle_pain headache sinus_pressure cough congestion redness_of_eyes swelled_lymph_nodes runny_nose phlegm chills loss_of_smell high_fever malaise throat_irritation
+Pneumonia, fatigue phlegm chills cough rusty_sputum sweating malaise fast_heart_rate
+Dimorphic hemmorhoids(piles), constipation pain_in_anal_region
+Heart attack, vomiting
+Varicose veins, obesity cramps prominent_veins_on_calf bruising
+Hypothyroidism, brittle_nails cold_hands_and_feets depression fatigue irritability mood_swings puffy_face_and_eyes abnormal_menstruation weight_gain enlarged_thyroid
+Hyperthyroidism, sweating weight_loss mood_swings diarrhoea irritability fatigue excessive_hunger muscle_weakness
+Hypoglycemia, slurred_speech sweating headache drying_and_tingling_lips irritability blurred_and_distorted_vision vomiting excessive_hunger fatigue
+Osteoarthristis, hip_joint_pain swelling_joints knee_pain
+Arthritis, stiff_neck movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, unsteadiness vomiting spinning_movements
+Acne, skin_rash
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, silver_like_dusting skin_rash joint_pain
+Impetigo, red_sore_around_nose yellow_crust_ooze
+Fungal infection, skin_rash
+Allergy, watering_from_eyes
+GERD, cough ulcers_on_tongue vomiting
+Chronic cholestasis, abdominal_pain yellowish_skin vomiting yellowing_of_eyes
+Drug Reaction, stomach_pain itching
+Peptic ulcer diseae, abdominal_pain indigestion internal_itching
+AIDS, extra_marital_contacts
+Diabetes , blurred_and_distorted_vision fatigue weight_loss irregular_sugar_level restlessness obesity lethargy
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, cough high_fever fatigue
+Hypertension , loss_of_balance chest_pain
+Migraine, irritability headache blurred_and_distorted_vision visual_disturbances acidity indigestion
+Cervical spondylosis, neck_pain dizziness
+Paralysis (brain hemorrhage), vomiting
+Jaundice, vomiting abdominal_pain fatigue high_fever weight_loss
+Malaria, chills high_fever headache nausea diarrhoea
+Chicken pox, itching malaise swelled_lymph_nodes loss_of_appetite skin_rash lethargy mild_fever red_spots_over_body
+Dengue, malaise chills high_fever skin_rash muscle_pain loss_of_appetite pain_behind_the_eyes nausea headache joint_pain fatigue
+Typhoid, belly_pain constipation high_fever toxic_look_(typhos) headache chills fatigue abdominal_pain
+hepatitis A, dark_urine vomiting nausea joint_pain yellowish_skin mild_fever loss_of_appetite diarrhoea
+Hepatitis B, dark_urine yellowing_of_eyes receiving_blood_transfusion loss_of_appetite fatigue abdominal_pain malaise itching lethargy
+Hepatitis C, nausea yellowing_of_eyes loss_of_appetite
+Hepatitis D, fatigue dark_urine yellowish_skin vomiting loss_of_appetite nausea
+Hepatitis E, stomach_bleeding fatigue dark_urine loss_of_appetite acute_liver_failure abdominal_pain nausea yellowing_of_eyes yellowish_skin vomiting
+Alcoholic hepatitis, abdominal_pain distention_of_abdomen yellowish_skin vomiting
+Tuberculosis, breathlessness vomiting cough chest_pain fatigue high_fever malaise chills yellowing_of_eyes weight_loss blood_in_sputum phlegm loss_of_appetite
+Common Cold, headache cough chills phlegm fatigue malaise redness_of_eyes loss_of_smell congestion sinus_pressure throat_irritation runny_nose swelled_lymph_nodes continuous_sneezing
+Pneumonia, fast_heart_rate cough chills phlegm sweating malaise fatigue breathlessness
+Dimorphic hemmorhoids(piles), pain_in_anal_region bloody_stool
+Heart attack, sweating
+Varicose veins, cramps obesity prominent_veins_on_calf fatigue
+Hypothyroidism, puffy_face_and_eyes enlarged_thyroid abnormal_menstruation mood_swings cold_hands_and_feets lethargy fatigue swollen_extremeties brittle_nails depression
+Hyperthyroidism, diarrhoea fatigue abnormal_menstruation irritability mood_swings weight_loss fast_heart_rate restlessness
+Hypoglycemia, blurred_and_distorted_vision drying_and_tingling_lips fatigue palpitations sweating irritability anxiety nausea excessive_hunger
+Osteoarthristis, hip_joint_pain neck_pain knee_pain
+Arthritis, muscle_weakness swelling_joints
+(vertigo) Paroymsal  Positional Vertigo, vomiting spinning_movements nausea
+Acne, scurring
+Urinary tract infection, burning_micturition
+Psoriasis, inflammatory_nails skin_rash silver_like_dusting
+Impetigo, skin_rash blister
+Fungal infection, dischromic_patches
+Allergy, watering_from_eyes
+GERD, acidity ulcers_on_tongue vomiting
+Chronic cholestasis, abdominal_pain yellowing_of_eyes itching vomiting
+Drug Reaction, burning_micturition skin_rash
+Peptic ulcer diseae, loss_of_appetite indigestion abdominal_pain
+AIDS, patches_in_throat
+Diabetes , fatigue increased_appetite polyuria weight_loss irregular_sugar_level excessive_hunger blurred_and_distorted_vision
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, high_fever cough family_history
+Hypertension , headache chest_pain
+Migraine, stiff_neck irritability blurred_and_distorted_vision visual_disturbances acidity excessive_hunger
+Cervical spondylosis, neck_pain back_pain
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, abdominal_pain dark_urine itching high_fever yellowish_skin
+Malaria, diarrhoea vomiting chills nausea muscle_pain
+Chicken pox, malaise itching swelled_lymph_nodes skin_rash mild_fever loss_of_appetite high_fever lethargy
+Dengue, red_spots_over_body malaise headache skin_rash loss_of_appetite fatigue pain_behind_the_eyes chills back_pain nausea muscle_pain
+Typhoid, abdominal_pain diarrhoea fatigue high_fever chills constipation belly_pain nausea
+hepatitis A, diarrhoea yellowing_of_eyes dark_urine abdominal_pain mild_fever joint_pain loss_of_appetite yellowish_skin
+Hepatitis B, malaise fatigue itching receiving_blood_transfusion dark_urine yellowish_skin yellowing_of_eyes yellow_urine loss_of_appetite
+Hepatitis C, yellowing_of_eyes family_history nausea
+Hepatitis D, joint_pain loss_of_appetite vomiting nausea abdominal_pain dark_urine
+Hepatitis E, stomach_bleeding dark_urine abdominal_pain acute_liver_failure high_fever loss_of_appetite joint_pain vomiting coma yellowing_of_eyes
+Alcoholic hepatitis, fluid_overload yellowish_skin swelling_of_stomach vomiting
+Tuberculosis, high_fever sweating swelled_lymph_nodes loss_of_appetite weight_loss phlegm cough chills mild_fever breathlessness blood_in_sputum chest_pain yellowing_of_eyes
+Common Cold, high_fever congestion continuous_sneezing chest_pain swelled_lymph_nodes headache cough fatigue loss_of_smell chills malaise sinus_pressure redness_of_eyes muscle_pain
+Pneumonia, high_fever chest_pain fast_heart_rate rusty_sputum breathlessness chills fatigue phlegm
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements irritation_in_anus
+Heart attack, vomiting
+Varicose veins, swollen_blood_vessels obesity prominent_veins_on_calf bruising
+Hypothyroidism, depression mood_swings puffy_face_and_eyes dizziness irritability enlarged_thyroid fatigue cold_hands_and_feets swollen_extremeties lethargy
+Hyperthyroidism, abnormal_menstruation excessive_hunger mood_swings fast_heart_rate diarrhoea fatigue sweating irritability
+Hypoglycemia, excessive_hunger vomiting nausea sweating drying_and_tingling_lips headache irritability anxiety fatigue
+Osteoarthristis, painful_walking knee_pain hip_joint_pain
+Arthritis, muscle_weakness painful_walking
+(vertigo) Paroymsal  Positional Vertigo, vomiting unsteadiness headache
+Acne, blackheads
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, joint_pain silver_like_dusting skin_peeling
+Impetigo, high_fever blister
+Fungal infection, skin_rash
+Allergy, watering_from_eyes
+GERD, chest_pain stomach_pain cough
+Chronic cholestasis, loss_of_appetite abdominal_pain nausea itching
+Drug Reaction, skin_rash spotting_urination
+Peptic ulcer diseae, loss_of_appetite passage_of_gases abdominal_pain
+AIDS, extra_marital_contacts
+Diabetes , blurred_and_distorted_vision obesity excessive_hunger lethargy increased_appetite weight_loss polyuria
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, breathlessness high_fever family_history
+Hypertension , loss_of_balance chest_pain
+Migraine, irritability indigestion stiff_neck blurred_and_distorted_vision excessive_hunger visual_disturbances
+Cervical spondylosis, weakness_in_limbs dizziness
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, dark_urine weight_loss abdominal_pain fatigue yellowish_skin
+Malaria, headache sweating vomiting high_fever diarrhoea
+Chicken pox, swelled_lymph_nodes mild_fever fatigue high_fever itching red_spots_over_body headache lethargy
+Dengue, red_spots_over_body fatigue high_fever headache malaise vomiting joint_pain chills muscle_pain nausea pain_behind_the_eyes
+Typhoid, abdominal_pain diarrhoea belly_pain constipation vomiting nausea chills high_fever
+hepatitis A, joint_pain diarrhoea vomiting mild_fever muscle_pain nausea loss_of_appetite yellowing_of_eyes
+Hepatitis B, yellowish_skin receiving_blood_transfusion lethargy malaise receiving_unsterile_injections itching dark_urine yellow_urine fatigue
+Hepatitis C, nausea yellowish_skin fatigue
+Hepatitis D, dark_urine nausea yellowish_skin joint_pain vomiting yellowing_of_eyes
+Hepatitis E, dark_urine fatigue yellowish_skin abdominal_pain nausea loss_of_appetite stomach_bleeding vomiting high_fever acute_liver_failure
+Alcoholic hepatitis, abdominal_pain fluid_overload vomiting distention_of_abdomen
+Tuberculosis, fatigue swelled_lymph_nodes loss_of_appetite vomiting weight_loss malaise blood_in_sputum mild_fever phlegm breathlessness chest_pain cough chills
+Common Cold, cough high_fever chest_pain malaise congestion headache sinus_pressure runny_nose fatigue swelled_lymph_nodes redness_of_eyes muscle_pain throat_irritation phlegm
+Pneumonia, high_fever chills phlegm fast_heart_rate breathlessness rusty_sputum fatigue malaise
+Dimorphic hemmorhoids(piles), bloody_stool irritation_in_anus
+Heart attack, vomiting
+Varicose veins, cramps swollen_blood_vessels fatigue prominent_veins_on_calf
+Hypothyroidism, brittle_nails depression weight_gain dizziness swollen_extremeties puffy_face_and_eyes abnormal_menstruation cold_hands_and_feets enlarged_thyroid fatigue
+Hyperthyroidism, abnormal_menstruation fatigue sweating muscle_weakness weight_loss restlessness fast_heart_rate excessive_hunger
+Hypoglycemia, headache slurred_speech irritability sweating vomiting nausea palpitations drying_and_tingling_lips fatigue
+Osteoarthristis, swelling_joints hip_joint_pain joint_pain
+Arthritis, painful_walking muscle_weakness
+(vertigo) Paroymsal  Positional Vertigo, unsteadiness nausea vomiting
+Acne, scurring
+Urinary tract infection, burning_micturition
+Psoriasis, skin_peeling skin_rash silver_like_dusting
+Impetigo, blister red_sore_around_nose
+Fungal infection, skin_rash
+Allergy, chills
+GERD, cough chest_pain ulcers_on_tongue
+Chronic cholestasis, loss_of_appetite itching nausea vomiting
+Drug Reaction, spotting_urination itching
+Peptic ulcer diseae, vomiting passage_of_gases abdominal_pain
+AIDS, extra_marital_contacts
+Diabetes , increased_appetite polyuria lethargy obesity fatigue excessive_hunger irregular_sugar_level
+Gastroenteritis, diarrhoea
+Bronchial Asthma, mucoid_sputum breathlessness fatigue
+Hypertension , loss_of_balance headache
+Migraine, irritability excessive_hunger headache acidity indigestion visual_disturbances
+Cervical spondylosis, back_pain loss_of_balance
+Paralysis (brain hemorrhage), altered_sensorium
+Jaundice, dark_urine fatigue vomiting high_fever weight_loss
+Malaria, muscle_pain chills diarrhoea headache nausea
+Chicken pox, loss_of_appetite red_spots_over_body high_fever fatigue skin_rash swelled_lymph_nodes headache mild_fever
+Dengue, fatigue loss_of_appetite nausea pain_behind_the_eyes back_pain joint_pain malaise chills headache high_fever muscle_pain
+Typhoid, chills nausea abdominal_pain diarrhoea constipation high_fever toxic_look_(typhos) belly_pain
+hepatitis A, yellowish_skin mild_fever abdominal_pain loss_of_appetite muscle_pain dark_urine vomiting joint_pain
+Hepatitis B, itching yellowish_skin yellow_urine receiving_unsterile_injections loss_of_appetite yellowing_of_eyes dark_urine lethargy receiving_blood_transfusion
+Hepatitis C, nausea yellowish_skin fatigue
+Hepatitis D, fatigue yellowish_skin nausea joint_pain dark_urine abdominal_pain
+Hepatitis E, coma loss_of_appetite joint_pain vomiting fatigue nausea high_fever abdominal_pain stomach_bleeding dark_urine
+Alcoholic hepatitis, distention_of_abdomen fluid_overload vomiting history_of_alcohol_consumption
+Tuberculosis, cough fatigue phlegm high_fever breathlessness sweating mild_fever malaise weight_loss loss_of_appetite vomiting chills chest_pain
+Common Cold, malaise congestion swelled_lymph_nodes fatigue sinus_pressure loss_of_smell runny_nose chest_pain throat_irritation continuous_sneezing chills headache high_fever cough
+Pneumonia, chest_pain sweating rusty_sputum malaise breathlessness phlegm fast_heart_rate cough
+Dimorphic hemmorhoids(piles), pain_in_anal_region bloody_stool
+Heart attack, chest_pain
+Varicose veins, swollen_legs prominent_veins_on_calf cramps obesity
+Hypothyroidism, irritability brittle_nails cold_hands_and_feets weight_gain dizziness enlarged_thyroid swollen_extremeties depression mood_swings fatigue
+Hyperthyroidism, fast_heart_rate sweating abnormal_menstruation restlessness mood_swings weight_loss muscle_weakness diarrhoea
+Hypoglycemia, palpitations blurred_and_distorted_vision sweating fatigue headache nausea vomiting slurred_speech excessive_hunger
+Osteoarthristis, painful_walking neck_pain hip_joint_pain
+Arthritis, muscle_weakness painful_walking
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements headache vomiting
+Acne, skin_rash
+Urinary tract infection, continuous_feel_of_urine
+Psoriasis, small_dents_in_nails skin_peeling silver_like_dusting
+Impetigo, high_fever red_sore_around_nose
+Fungal infection, skin_rash
+Allergy, continuous_sneezing
+GERD, ulcers_on_tongue acidity stomach_pain
+Chronic cholestasis, abdominal_pain vomiting yellowish_skin loss_of_appetite
+Drug Reaction, itching stomach_pain
+Peptic ulcer diseae, abdominal_pain indigestion vomiting
+AIDS, muscle_wasting
+Diabetes , weight_loss restlessness fatigue increased_appetite polyuria blurred_and_distorted_vision obesity
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, high_fever fatigue family_history
+Hypertension , headache loss_of_balance
+Migraine, visual_disturbances headache blurred_and_distorted_vision indigestion acidity depression
+Cervical spondylosis, neck_pain loss_of_balance
+Paralysis (brain hemorrhage), altered_sensorium
+Jaundice, itching vomiting abdominal_pain dark_urine yellowish_skin
+Malaria, nausea diarrhoea muscle_pain headache vomiting
+Chicken pox, mild_fever itching headache swelled_lymph_nodes lethargy high_fever loss_of_appetite malaise
+Dengue, loss_of_appetite nausea high_fever vomiting joint_pain headache muscle_pain red_spots_over_body malaise fatigue chills
+Typhoid, high_fever belly_pain vomiting abdominal_pain chills fatigue constipation headache
+hepatitis A, yellowish_skin mild_fever yellowing_of_eyes joint_pain diarrhoea dark_urine muscle_pain loss_of_appetite
+Hepatitis B, receiving_unsterile_injections abdominal_pain lethargy fatigue receiving_blood_transfusion itching dark_urine loss_of_appetite yellowish_skin
+Hepatitis C, yellowing_of_eyes loss_of_appetite family_history
+Hepatitis D, joint_pain abdominal_pain loss_of_appetite yellowing_of_eyes fatigue dark_urine
+Hepatitis E, yellowish_skin dark_urine yellowing_of_eyes high_fever acute_liver_failure coma loss_of_appetite abdominal_pain fatigue stomach_bleeding
+Alcoholic hepatitis, yellowish_skin history_of_alcohol_consumption distention_of_abdomen fluid_overload
+Tuberculosis, fatigue vomiting chest_pain high_fever cough mild_fever loss_of_appetite swelled_lymph_nodes yellowing_of_eyes chills sweating malaise weight_loss
+Common Cold, redness_of_eyes loss_of_smell congestion malaise phlegm continuous_sneezing throat_irritation headache chills swelled_lymph_nodes cough runny_nose muscle_pain fatigue
+Pneumonia, phlegm high_fever rusty_sputum breathlessness sweating fast_heart_rate fatigue cough
+Dimorphic hemmorhoids(piles), constipation pain_in_anal_region
+Heart attack, breathlessness
+Varicose veins, bruising fatigue cramps swollen_legs
+Hypothyroidism, enlarged_thyroid puffy_face_and_eyes irritability fatigue weight_gain depression abnormal_menstruation dizziness cold_hands_and_feets lethargy
+Hyperthyroidism, fast_heart_rate weight_loss diarrhoea mood_swings excessive_hunger irritability fatigue abnormal_menstruation
+Hypoglycemia, vomiting anxiety drying_and_tingling_lips sweating blurred_and_distorted_vision irritability palpitations fatigue headache
+Osteoarthristis, painful_walking swelling_joints knee_pain
+Arthritis, muscle_weakness stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, nausea vomiting loss_of_balance
+Acne, scurring
+Urinary tract infection, burning_micturition
+Psoriasis, skin_rash joint_pain silver_like_dusting
+Impetigo, yellow_crust_ooze red_sore_around_nose
+Fungal infection, dischromic_patches
+Allergy, shivering
+GERD, acidity ulcers_on_tongue vomiting
+Chronic cholestasis, loss_of_appetite yellowing_of_eyes abdominal_pain yellowish_skin
+Drug Reaction, spotting_urination stomach_pain
+Peptic ulcer diseae, vomiting indigestion abdominal_pain
+AIDS, muscle_wasting
+Diabetes , excessive_hunger fatigue polyuria irregular_sugar_level increased_appetite obesity restlessness
+Gastroenteritis, diarrhoea
+Bronchial Asthma, fatigue cough high_fever
+Hypertension , chest_pain headache
+Migraine, visual_disturbances excessive_hunger irritability headache stiff_neck depression
+Cervical spondylosis, loss_of_balance dizziness
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, abdominal_pain fatigue itching weight_loss dark_urine
+Malaria, sweating vomiting muscle_pain headache nausea
+Chicken pox, lethargy fatigue red_spots_over_body itching high_fever malaise loss_of_appetite swelled_lymph_nodes
+Dengue, pain_behind_the_eyes chills joint_pain loss_of_appetite malaise fatigue red_spots_over_body headache vomiting nausea skin_rash
+Typhoid, toxic_look_(typhos) chills abdominal_pain nausea constipation belly_pain headache vomiting
+hepatitis A, diarrhoea abdominal_pain dark_urine muscle_pain mild_fever yellowing_of_eyes vomiting yellowish_skin
+Hepatitis B, fatigue yellow_urine receiving_blood_transfusion receiving_unsterile_injections yellowish_skin abdominal_pain lethargy malaise loss_of_appetite
+Hepatitis C, nausea yellowing_of_eyes family_history
+Hepatitis D, joint_pain yellowish_skin loss_of_appetite vomiting nausea fatigue
+Hepatitis E, abdominal_pain loss_of_appetite fatigue yellowish_skin high_fever yellowing_of_eyes acute_liver_failure nausea dark_urine vomiting
+Alcoholic hepatitis, yellowish_skin abdominal_pain distention_of_abdomen fluid_overload
+Tuberculosis, mild_fever vomiting high_fever malaise weight_loss loss_of_appetite swelled_lymph_nodes fatigue yellowing_of_eyes breathlessness chills sweating chest_pain
+Common Cold, fatigue cough phlegm throat_irritation headache runny_nose malaise continuous_sneezing redness_of_eyes sinus_pressure chills chest_pain swelled_lymph_nodes congestion
+Pneumonia, chills high_fever breathlessness fast_heart_rate malaise fatigue phlegm sweating
+Dimorphic hemmorhoids(piles), bloody_stool pain_during_bowel_movements
+Heart attack, vomiting
+Varicose veins, cramps prominent_veins_on_calf obesity swollen_blood_vessels
+Hypothyroidism, abnormal_menstruation dizziness brittle_nails enlarged_thyroid lethargy swollen_extremeties fatigue depression mood_swings weight_gain
+Hyperthyroidism, abnormal_menstruation sweating restlessness weight_loss mood_swings muscle_weakness fast_heart_rate excessive_hunger
+Hypoglycemia, sweating palpitations headache irritability slurred_speech drying_and_tingling_lips fatigue nausea anxiety
+Osteoarthristis, hip_joint_pain neck_pain painful_walking
+Arthritis, stiff_neck painful_walking
+(vertigo) Paroymsal  Positional Vertigo, nausea vomiting unsteadiness
+Acne, blackheads
+Urinary tract infection, continuous_feel_of_urine
+Psoriasis, joint_pain skin_rash small_dents_in_nails
+Impetigo, skin_rash blister
+Fungal infection, nodal_skin_eruptions
+Allergy, shivering
+GERD, ulcers_on_tongue acidity chest_pain
+Chronic cholestasis, nausea abdominal_pain vomiting itching
+Drug Reaction, itching skin_rash
+Peptic ulcer diseae, internal_itching abdominal_pain indigestion
+AIDS, patches_in_throat
+Diabetes , blurred_and_distorted_vision restlessness increased_appetite lethargy obesity excessive_hunger irregular_sugar_level
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, family_history cough breathlessness
+Hypertension , lack_of_concentration chest_pain
+Migraine, excessive_hunger visual_disturbances irritability headache depression blurred_and_distorted_vision
+Cervical spondylosis, dizziness loss_of_balance
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, yellowish_skin high_fever itching weight_loss dark_urine
+Malaria, vomiting high_fever nausea sweating diarrhoea
+Chicken pox, red_spots_over_body loss_of_appetite lethargy malaise swelled_lymph_nodes mild_fever skin_rash fatigue
+Dengue, malaise high_fever vomiting skin_rash chills joint_pain fatigue loss_of_appetite muscle_pain back_pain pain_behind_the_eyes
+Typhoid, fatigue high_fever nausea constipation headache diarrhoea vomiting abdominal_pain
+hepatitis A, mild_fever joint_pain diarrhoea yellowish_skin muscle_pain yellowing_of_eyes dark_urine nausea
+Hepatitis B, malaise yellow_urine receiving_unsterile_injections yellowing_of_eyes loss_of_appetite fatigue abdominal_pain receiving_blood_transfusion dark_urine
+Hepatitis C, loss_of_appetite nausea fatigue
+Hepatitis D, dark_urine vomiting yellowing_of_eyes nausea loss_of_appetite yellowish_skin
+Hepatitis E, acute_liver_failure yellowing_of_eyes coma stomach_bleeding yellowish_skin loss_of_appetite dark_urine nausea abdominal_pain fatigue
+Alcoholic hepatitis, history_of_alcohol_consumption yellowish_skin vomiting abdominal_pain
+Tuberculosis, malaise swelled_lymph_nodes sweating breathlessness mild_fever loss_of_appetite fatigue high_fever chest_pain weight_loss yellowing_of_eyes cough blood_in_sputum
+Common Cold, swelled_lymph_nodes cough throat_irritation continuous_sneezing loss_of_smell phlegm sinus_pressure fatigue muscle_pain malaise congestion high_fever chest_pain redness_of_eyes
+Pneumonia, breathlessness high_fever cough malaise chills fast_heart_rate rusty_sputum fatigue
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements constipation
+Heart attack, sweating
+Varicose veins, swollen_blood_vessels bruising prominent_veins_on_calf fatigue
+Hypothyroidism, mood_swings cold_hands_and_feets swollen_extremeties abnormal_menstruation fatigue enlarged_thyroid depression irritability dizziness weight_gain
+Hyperthyroidism, abnormal_menstruation excessive_hunger irritability fatigue restlessness mood_swings diarrhoea fast_heart_rate
+Hypoglycemia, irritability blurred_and_distorted_vision anxiety headache fatigue nausea slurred_speech palpitations drying_and_tingling_lips
+Osteoarthristis, painful_walking hip_joint_pain swelling_joints
+Arthritis, swelling_joints painful_walking
+(vertigo) Paroymsal  Positional Vertigo, nausea loss_of_balance vomiting
+Acne, pus_filled_pimples
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, skin_rash skin_peeling small_dents_in_nails
+Impetigo, blister red_sore_around_nose
+Fungal infection, dischromic_patches
+Allergy, continuous_sneezing
+GERD, cough stomach_pain chest_pain
+Chronic cholestasis, yellowish_skin nausea yellowing_of_eyes loss_of_appetite
+Drug Reaction, stomach_pain skin_rash
+Peptic ulcer diseae, passage_of_gases abdominal_pain internal_itching
+AIDS, muscle_wasting
+Diabetes , increased_appetite weight_loss restlessness lethargy excessive_hunger obesity blurred_and_distorted_vision
+Gastroenteritis, vomiting
+Bronchial Asthma, fatigue high_fever mucoid_sputum
+Hypertension , headache chest_pain
+Migraine, irritability stiff_neck depression excessive_hunger visual_disturbances indigestion
+Cervical spondylosis, neck_pain weakness_in_limbs
+Paralysis (brain hemorrhage), headache
+Jaundice, high_fever vomiting dark_urine fatigue weight_loss
+Malaria, high_fever muscle_pain vomiting sweating headache
+Chicken pox, high_fever fatigue mild_fever malaise red_spots_over_body lethargy swelled_lymph_nodes headache
+Dengue, high_fever joint_pain red_spots_over_body muscle_pain fatigue headache chills loss_of_appetite nausea skin_rash vomiting
+Typhoid, headache fatigue vomiting high_fever constipation belly_pain diarrhoea toxic_look_(typhos)
+hepatitis A, nausea vomiting mild_fever muscle_pain abdominal_pain yellowish_skin dark_urine loss_of_appetite
+Hepatitis B, lethargy receiving_unsterile_injections yellowing_of_eyes malaise dark_urine fatigue receiving_blood_transfusion yellowish_skin itching
+Hepatitis C, fatigue family_history yellowish_skin
+Hepatitis D, abdominal_pain loss_of_appetite dark_urine yellowing_of_eyes nausea fatigue
+Hepatitis E, stomach_bleeding loss_of_appetite acute_liver_failure fatigue dark_urine joint_pain yellowing_of_eyes high_fever coma abdominal_pain
+Alcoholic hepatitis, abdominal_pain yellowish_skin fluid_overload swelling_of_stomach
+Tuberculosis, malaise yellowing_of_eyes blood_in_sputum vomiting chills phlegm swelled_lymph_nodes high_fever loss_of_appetite mild_fever chest_pain breathlessness weight_loss
+Common Cold, cough malaise fatigue high_fever swelled_lymph_nodes runny_nose muscle_pain loss_of_smell congestion chills continuous_sneezing phlegm redness_of_eyes throat_irritation
+Pneumonia, cough malaise rusty_sputum chills breathlessness chest_pain high_fever fatigue
+Dimorphic hemmorhoids(piles), irritation_in_anus constipation
+Heart attack, breathlessness
+Varicose veins, fatigue bruising prominent_veins_on_calf cramps
+Hypothyroidism, irritability abnormal_menstruation enlarged_thyroid swollen_extremeties brittle_nails lethargy depression cold_hands_and_feets mood_swings fatigue
+Hyperthyroidism, abnormal_menstruation mood_swings irritability muscle_weakness excessive_hunger restlessness sweating weight_loss
+Hypoglycemia, fatigue headache anxiety drying_and_tingling_lips palpitations vomiting nausea blurred_and_distorted_vision excessive_hunger
+Osteoarthristis, knee_pain joint_pain hip_joint_pain
+Arthritis, muscle_weakness stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements headache unsteadiness
+Acne, pus_filled_pimples
+Urinary tract infection, continuous_feel_of_urine
+Psoriasis, skin_peeling silver_like_dusting joint_pain
+Impetigo, yellow_crust_ooze high_fever
+Fungal infection, dischromic_patches
+Allergy, continuous_sneezing
+GERD, acidity vomiting cough
+Chronic cholestasis, yellowing_of_eyes nausea itching abdominal_pain
+Drug Reaction, skin_rash spotting_urination
+Peptic ulcer diseae, loss_of_appetite indigestion passage_of_gases
+AIDS, patches_in_throat
+Diabetes , irregular_sugar_level obesity weight_loss restlessness blurred_and_distorted_vision fatigue polyuria
+Gastroenteritis, diarrhoea
+Bronchial Asthma, high_fever family_history mucoid_sputum
+Hypertension , headache loss_of_balance
+Migraine, blurred_and_distorted_vision indigestion headache acidity irritability stiff_neck
+Cervical spondylosis, dizziness back_pain
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, yellowish_skin weight_loss dark_urine itching fatigue
+Malaria, nausea high_fever chills vomiting sweating
+Chicken pox, mild_fever malaise headache itching loss_of_appetite swelled_lymph_nodes fatigue high_fever
+Dengue, red_spots_over_body loss_of_appetite nausea headache back_pain pain_behind_the_eyes muscle_pain fatigue high_fever vomiting malaise
+Typhoid, high_fever vomiting headache abdominal_pain constipation chills diarrhoea belly_pain
+hepatitis A, nausea mild_fever loss_of_appetite vomiting dark_urine muscle_pain yellowish_skin abdominal_pain
+Hepatitis B, receiving_unsterile_injections loss_of_appetite yellowing_of_eyes itching receiving_blood_transfusion dark_urine lethargy yellow_urine abdominal_pain
+Hepatitis C, loss_of_appetite fatigue yellowing_of_eyes
+Hepatitis D, yellowish_skin yellowing_of_eyes dark_urine vomiting loss_of_appetite abdominal_pain
+Hepatitis E, abdominal_pain stomach_bleeding yellowing_of_eyes dark_urine coma loss_of_appetite fatigue high_fever acute_liver_failure vomiting
+Alcoholic hepatitis, swelling_of_stomach distention_of_abdomen abdominal_pain history_of_alcohol_consumption
+Tuberculosis, chills chest_pain mild_fever breathlessness weight_loss sweating fatigue phlegm malaise cough yellowing_of_eyes swelled_lymph_nodes vomiting
+Common Cold, continuous_sneezing fatigue runny_nose malaise throat_irritation congestion chills loss_of_smell phlegm muscle_pain swelled_lymph_nodes redness_of_eyes chest_pain headache
+Pneumonia, fast_heart_rate cough chest_pain rusty_sputum phlegm fatigue high_fever sweating
+Dimorphic hemmorhoids(piles), constipation bloody_stool
+Heart attack, breathlessness
+Varicose veins, bruising prominent_veins_on_calf swollen_legs fatigue
+Hypothyroidism, swollen_extremeties dizziness lethargy cold_hands_and_feets mood_swings weight_gain fatigue enlarged_thyroid puffy_face_and_eyes depression
+Hyperthyroidism, fast_heart_rate restlessness mood_swings diarrhoea muscle_weakness excessive_hunger irritability abnormal_menstruation
+Hypoglycemia, vomiting fatigue sweating drying_and_tingling_lips headache palpitations nausea excessive_hunger blurred_and_distorted_vision
+Osteoarthristis, hip_joint_pain swelling_joints joint_pain
+Arthritis, muscle_weakness painful_walking
+(vertigo) Paroymsal  Positional Vertigo, vomiting nausea unsteadiness
+Acne, scurring
+Urinary tract infection, burning_micturition
+Psoriasis, inflammatory_nails silver_like_dusting skin_peeling
+Impetigo, blister red_sore_around_nose
+Fungal infection, skin_rash
+Allergy, chills
+GERD, vomiting chest_pain cough
+Chronic cholestasis, nausea vomiting yellowing_of_eyes abdominal_pain
+Drug Reaction, skin_rash itching
+Peptic ulcer diseae, indigestion vomiting loss_of_appetite
+AIDS, high_fever
+Diabetes , obesity irregular_sugar_level restlessness weight_loss polyuria fatigue increased_appetite
+Gastroenteritis, vomiting
+Bronchial Asthma, family_history high_fever fatigue
+Hypertension , headache loss_of_balance
+Migraine, excessive_hunger irritability acidity depression visual_disturbances blurred_and_distorted_vision
+Cervical spondylosis, dizziness neck_pain
+Paralysis (brain hemorrhage), vomiting
+Jaundice, vomiting yellowish_skin itching high_fever dark_urine
+Malaria, muscle_pain chills nausea high_fever vomiting
+Chicken pox, loss_of_appetite itching skin_rash mild_fever fatigue lethargy malaise red_spots_over_body
+Dengue, nausea muscle_pain loss_of_appetite chills vomiting joint_pain malaise red_spots_over_body skin_rash pain_behind_the_eyes back_pain
+Typhoid, fatigue chills belly_pain nausea abdominal_pain high_fever constipation toxic_look_(typhos)
+hepatitis A, abdominal_pain loss_of_appetite yellowish_skin vomiting diarrhoea yellowing_of_eyes dark_urine muscle_pain
+Hepatitis B, loss_of_appetite dark_urine yellowing_of_eyes itching malaise yellow_urine lethargy yellowish_skin abdominal_pain
+Hepatitis C, fatigue nausea family_history
+Hepatitis D, yellowish_skin abdominal_pain loss_of_appetite nausea joint_pain vomiting
+Hepatitis E, yellowish_skin fatigue acute_liver_failure yellowing_of_eyes coma nausea abdominal_pain vomiting joint_pain loss_of_appetite
+Alcoholic hepatitis, yellowish_skin abdominal_pain swelling_of_stomach distention_of_abdomen
+Tuberculosis, swelled_lymph_nodes breathlessness blood_in_sputum chills weight_loss malaise phlegm chest_pain yellowing_of_eyes mild_fever vomiting fatigue loss_of_appetite
+Common Cold, congestion sinus_pressure throat_irritation chest_pain fatigue chills cough high_fever continuous_sneezing phlegm swelled_lymph_nodes headache loss_of_smell redness_of_eyes
+Pneumonia, rusty_sputum malaise high_fever chills cough phlegm fatigue fast_heart_rate
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements irritation_in_anus
+Heart attack, vomiting
+Varicose veins, swollen_blood_vessels obesity bruising fatigue
+Hypothyroidism, irritability swollen_extremeties fatigue depression mood_swings abnormal_menstruation cold_hands_and_feets enlarged_thyroid dizziness brittle_nails
+Hyperthyroidism, fast_heart_rate muscle_weakness irritability abnormal_menstruation diarrhoea fatigue mood_swings weight_loss
+Hypoglycemia, irritability fatigue sweating headache anxiety drying_and_tingling_lips nausea vomiting excessive_hunger
+Osteoarthristis, hip_joint_pain joint_pain painful_walking
+Arthritis, muscle_weakness painful_walking
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance spinning_movements nausea
+Acne, skin_rash
+Urinary tract infection, continuous_feel_of_urine
+Psoriasis, skin_peeling skin_rash small_dents_in_nails
+Impetigo, skin_rash red_sore_around_nose
+Fungal infection, skin_rash
+Allergy, continuous_sneezing
+GERD, acidity vomiting ulcers_on_tongue
+Chronic cholestasis, yellowish_skin itching yellowing_of_eyes abdominal_pain
+Drug Reaction, stomach_pain burning_micturition
+Peptic ulcer diseae, indigestion abdominal_pain vomiting
+AIDS, high_fever
+Diabetes , fatigue polyuria obesity excessive_hunger lethargy increased_appetite blurred_and_distorted_vision
+Gastroenteritis, diarrhoea
+Bronchial Asthma, mucoid_sputum fatigue breathlessness
+Hypertension , headache loss_of_balance
+Migraine, excessive_hunger depression acidity irritability indigestion stiff_neck
+Cervical spondylosis, dizziness loss_of_balance
+Paralysis (brain hemorrhage), headache
+Jaundice, fatigue weight_loss yellowish_skin vomiting itching
+Malaria, sweating vomiting headache muscle_pain chills
+Chicken pox, lethargy loss_of_appetite skin_rash red_spots_over_body swelled_lymph_nodes malaise fatigue headache
+Dengue, pain_behind_the_eyes back_pain nausea red_spots_over_body chills high_fever malaise vomiting headache joint_pain loss_of_appetite
+Typhoid, chills diarrhoea high_fever constipation abdominal_pain headache nausea vomiting
+hepatitis A, loss_of_appetite joint_pain yellowish_skin mild_fever nausea muscle_pain dark_urine abdominal_pain
+Hepatitis B, receiving_unsterile_injections dark_urine loss_of_appetite fatigue itching yellow_urine receiving_blood_transfusion yellowish_skin lethargy
+Hepatitis C, fatigue yellowish_skin nausea
+Hepatitis D, yellowish_skin yellowing_of_eyes abdominal_pain loss_of_appetite joint_pain nausea
+Hepatitis E, high_fever stomach_bleeding nausea fatigue coma yellowish_skin dark_urine loss_of_appetite abdominal_pain vomiting
+Alcoholic hepatitis, distention_of_abdomen vomiting abdominal_pain yellowish_skin
+Tuberculosis, swelled_lymph_nodes sweating cough chest_pain vomiting high_fever loss_of_appetite fatigue malaise blood_in_sputum chills breathlessness phlegm
+Common Cold, chest_pain swelled_lymph_nodes redness_of_eyes cough muscle_pain phlegm fatigue high_fever runny_nose malaise continuous_sneezing sinus_pressure chills congestion
+Pneumonia, breathlessness rusty_sputum chest_pain sweating phlegm high_fever fatigue cough
+Dimorphic hemmorhoids(piles), bloody_stool irritation_in_anus
+Heart attack, vomiting
+Varicose veins, prominent_veins_on_calf swollen_blood_vessels fatigue cramps
+Hypothyroidism, enlarged_thyroid weight_gain depression abnormal_menstruation irritability swollen_extremeties lethargy cold_hands_and_feets brittle_nails fatigue
+Hyperthyroidism, mood_swings muscle_weakness fast_heart_rate sweating irritability excessive_hunger weight_loss fatigue
+Hypoglycemia, fatigue nausea blurred_and_distorted_vision anxiety slurred_speech irritability vomiting excessive_hunger palpitations
+Osteoarthristis, joint_pain knee_pain swelling_joints
+Arthritis, muscle_weakness swelling_joints
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance unsteadiness nausea
+Acne, blackheads
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, inflammatory_nails silver_like_dusting skin_peeling
+Impetigo, yellow_crust_ooze high_fever
+Fungal infection, dischromic_patches
+Allergy, watering_from_eyes
+GERD, acidity ulcers_on_tongue vomiting
+Chronic cholestasis, itching nausea loss_of_appetite vomiting
+Drug Reaction, spotting_urination burning_micturition
+Peptic ulcer diseae, indigestion vomiting abdominal_pain
+AIDS, high_fever
+Diabetes , excessive_hunger weight_loss restlessness irregular_sugar_level increased_appetite lethargy blurred_and_distorted_vision
+Gastroenteritis, diarrhoea
+Bronchial Asthma, family_history fatigue cough
+Hypertension , lack_of_concentration headache
+Migraine, depression acidity excessive_hunger headache visual_disturbances stiff_neck
+Cervical spondylosis, dizziness weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting
+Jaundice, high_fever yellowish_skin weight_loss dark_urine vomiting
+Malaria, vomiting headache diarrhoea sweating high_fever
+Chicken pox, loss_of_appetite mild_fever high_fever skin_rash itching malaise swelled_lymph_nodes red_spots_over_body
+Dengue, nausea chills loss_of_appetite joint_pain muscle_pain headache high_fever pain_behind_the_eyes back_pain malaise fatigue
+Typhoid, chills nausea belly_pain diarrhoea fatigue toxic_look_(typhos) abdominal_pain vomiting
+hepatitis A, vomiting yellowing_of_eyes dark_urine loss_of_appetite abdominal_pain nausea muscle_pain yellowish_skin
+Hepatitis B, yellow_urine receiving_unsterile_injections abdominal_pain itching receiving_blood_transfusion dark_urine yellowish_skin loss_of_appetite yellowing_of_eyes
+Hepatitis C, yellowish_skin yellowing_of_eyes nausea
+Hepatitis D, fatigue yellowing_of_eyes yellowish_skin nausea loss_of_appetite dark_urine
+Hepatitis E, dark_urine abdominal_pain loss_of_appetite vomiting acute_liver_failure coma yellowish_skin high_fever joint_pain nausea
+Alcoholic hepatitis, swelling_of_stomach fluid_overload vomiting yellowish_skin
+Tuberculosis, fatigue chills loss_of_appetite malaise cough phlegm weight_loss high_fever sweating breathlessness yellowing_of_eyes swelled_lymph_nodes vomiting
+Common Cold, phlegm chills throat_irritation muscle_pain runny_nose headache chest_pain fatigue sinus_pressure loss_of_smell swelled_lymph_nodes cough malaise continuous_sneezing
+Pneumonia, high_fever breathlessness cough phlegm malaise rusty_sputum sweating fatigue
+Dimorphic hemmorhoids(piles), constipation pain_in_anal_region
+Heart attack, breathlessness
+Varicose veins, obesity swollen_legs prominent_veins_on_calf bruising
+Hypothyroidism, weight_gain enlarged_thyroid fatigue dizziness abnormal_menstruation depression irritability brittle_nails swollen_extremeties mood_swings
+Hyperthyroidism, excessive_hunger weight_loss fatigue muscle_weakness diarrhoea abnormal_menstruation restlessness sweating
+Hypoglycemia, headache anxiety nausea irritability sweating fatigue slurred_speech drying_and_tingling_lips excessive_hunger
+Osteoarthristis, hip_joint_pain swelling_joints joint_pain
+Arthritis, muscle_weakness movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, vomiting headache unsteadiness
+Acne, blackheads
+Urinary tract infection, bladder_discomfort
+Psoriasis, skin_rash joint_pain inflammatory_nails
+Impetigo, red_sore_around_nose skin_rash
+Fungal infection, skin_rash
+Allergy, shivering
+GERD, chest_pain ulcers_on_tongue cough
+Chronic cholestasis, yellowish_skin abdominal_pain vomiting yellowing_of_eyes
+Drug Reaction, stomach_pain burning_micturition
+Peptic ulcer diseae, vomiting internal_itching loss_of_appetite
+AIDS, muscle_wasting
+Diabetes , lethargy increased_appetite polyuria blurred_and_distorted_vision fatigue restlessness irregular_sugar_level
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, breathlessness mucoid_sputum fatigue
+Hypertension , headache chest_pain
+Migraine, stiff_neck headache depression irritability indigestion visual_disturbances
+Cervical spondylosis, dizziness loss_of_balance
+Paralysis (brain hemorrhage), vomiting
+Jaundice, yellowish_skin abdominal_pain vomiting dark_urine itching
+Malaria, muscle_pain chills high_fever diarrhoea vomiting
+Chicken pox, headache high_fever malaise itching skin_rash fatigue swelled_lymph_nodes red_spots_over_body
+Dengue, fatigue joint_pain vomiting headache loss_of_appetite skin_rash chills malaise back_pain pain_behind_the_eyes red_spots_over_body
+Typhoid, belly_pain abdominal_pain headache chills nausea constipation toxic_look_(typhos) vomiting
+hepatitis A, yellowing_of_eyes yellowish_skin dark_urine loss_of_appetite vomiting diarrhoea abdominal_pain joint_pain
+Hepatitis B, loss_of_appetite malaise yellowish_skin yellowing_of_eyes fatigue dark_urine yellow_urine receiving_unsterile_injections itching
+Hepatitis C, fatigue yellowing_of_eyes family_history
+Hepatitis D, joint_pain dark_urine yellowing_of_eyes fatigue abdominal_pain loss_of_appetite
+Hepatitis E, joint_pain high_fever abdominal_pain vomiting acute_liver_failure stomach_bleeding nausea yellowing_of_eyes dark_urine coma
+Alcoholic hepatitis, yellowish_skin fluid_overload swelling_of_stomach vomiting
+Tuberculosis, malaise swelled_lymph_nodes mild_fever chest_pain vomiting blood_in_sputum chills cough high_fever yellowing_of_eyes phlegm fatigue breathlessness
+Common Cold, cough muscle_pain throat_irritation headache high_fever redness_of_eyes phlegm runny_nose congestion chills fatigue loss_of_smell sinus_pressure continuous_sneezing
+Pneumonia, sweating chest_pain rusty_sputum phlegm fatigue cough chills breathlessness
+Dimorphic hemmorhoids(piles), irritation_in_anus constipation
+Heart attack, vomiting
+Varicose veins, obesity prominent_veins_on_calf swollen_blood_vessels swollen_legs
+Hypothyroidism, irritability weight_gain brittle_nails mood_swings cold_hands_and_feets fatigue enlarged_thyroid dizziness depression abnormal_menstruation
+Hyperthyroidism, abnormal_menstruation sweating irritability muscle_weakness diarrhoea fatigue restlessness weight_loss
+Hypoglycemia, slurred_speech drying_and_tingling_lips headache nausea palpitations anxiety blurred_and_distorted_vision excessive_hunger sweating
+Osteoarthristis, neck_pain hip_joint_pain knee_pain
+Arthritis, stiff_neck swelling_joints
+(vertigo) Paroymsal  Positional Vertigo, vomiting nausea unsteadiness
+Acne, pus_filled_pimples
+Urinary tract infection, bladder_discomfort
+Psoriasis, silver_like_dusting skin_rash inflammatory_nails
+Impetigo, high_fever yellow_crust_ooze
+Fungal infection, itching
+Allergy, chills
+GERD, chest_pain vomiting cough
+Chronic cholestasis, itching vomiting yellowing_of_eyes yellowish_skin
+Drug Reaction, spotting_urination burning_micturition
+Peptic ulcer diseae, abdominal_pain loss_of_appetite vomiting
+AIDS, high_fever
+Diabetes , irregular_sugar_level lethargy polyuria obesity weight_loss fatigue blurred_and_distorted_vision
+Gastroenteritis, dehydration
+Bronchial Asthma, cough breathlessness mucoid_sputum
+Hypertension , lack_of_concentration chest_pain
+Migraine, irritability acidity stiff_neck blurred_and_distorted_vision headache depression
+Cervical spondylosis, neck_pain weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting
+Jaundice, fatigue yellowish_skin itching vomiting abdominal_pain
+Malaria, nausea high_fever vomiting headache muscle_pain
+Chicken pox, fatigue red_spots_over_body high_fever lethargy malaise skin_rash itching swelled_lymph_nodes
+Dengue, nausea skin_rash high_fever back_pain vomiting red_spots_over_body loss_of_appetite headache pain_behind_the_eyes malaise chills
+Typhoid, toxic_look_(typhos) chills vomiting abdominal_pain nausea headache constipation belly_pain
+hepatitis A, diarrhoea joint_pain mild_fever muscle_pain yellowish_skin abdominal_pain yellowing_of_eyes dark_urine
+Hepatitis B, yellowing_of_eyes abdominal_pain lethargy malaise receiving_blood_transfusion dark_urine receiving_unsterile_injections yellow_urine fatigue
+Hepatitis C, fatigue loss_of_appetite family_history
+Hepatitis D, vomiting abdominal_pain fatigue joint_pain yellowish_skin yellowing_of_eyes
+Hepatitis E, loss_of_appetite coma yellowing_of_eyes joint_pain abdominal_pain dark_urine yellowish_skin high_fever nausea fatigue
+Alcoholic hepatitis, fluid_overload abdominal_pain yellowish_skin history_of_alcohol_consumption
+Tuberculosis, blood_in_sputum malaise weight_loss vomiting fatigue high_fever breathlessness yellowing_of_eyes chest_pain sweating phlegm loss_of_appetite chills
+Common Cold, chills high_fever fatigue headache runny_nose phlegm cough swelled_lymph_nodes continuous_sneezing throat_irritation redness_of_eyes malaise congestion chest_pain
+Pneumonia, malaise breathlessness chest_pain cough phlegm high_fever fatigue chills
+Dimorphic hemmorhoids(piles), constipation pain_during_bowel_movements
+Heart attack, breathlessness
+Varicose veins, fatigue swollen_blood_vessels bruising swollen_legs
+Hypothyroidism, enlarged_thyroid fatigue cold_hands_and_feets depression abnormal_menstruation dizziness puffy_face_and_eyes swollen_extremeties weight_gain brittle_nails
+Hyperthyroidism, abnormal_menstruation diarrhoea fatigue weight_loss sweating restlessness irritability fast_heart_rate
+Hypoglycemia, irritability slurred_speech excessive_hunger sweating palpitations drying_and_tingling_lips fatigue headache nausea
+Osteoarthristis, swelling_joints painful_walking joint_pain
+Arthritis, movement_stiffness muscle_weakness
+(vertigo) Paroymsal  Positional Vertigo, headache loss_of_balance unsteadiness
+Acne, blackheads
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, skin_peeling joint_pain inflammatory_nails
+Impetigo, skin_rash blister
+Fungal infection, itching
+Allergy, chills
+GERD, chest_pain stomach_pain cough
+Chronic cholestasis, loss_of_appetite vomiting nausea yellowish_skin
+Drug Reaction, stomach_pain itching
+Peptic ulcer diseae, passage_of_gases vomiting abdominal_pain
+AIDS, high_fever
+Diabetes , restlessness blurred_and_distorted_vision fatigue irregular_sugar_level weight_loss polyuria obesity
+Gastroenteritis, diarrhoea
+Bronchial Asthma, mucoid_sputum fatigue breathlessness
+Hypertension , loss_of_balance chest_pain
+Migraine, headache acidity depression blurred_and_distorted_vision visual_disturbances indigestion
+Cervical spondylosis, dizziness weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting
+Jaundice, weight_loss yellowish_skin itching dark_urine vomiting
+Malaria, sweating high_fever vomiting muscle_pain diarrhoea
+Chicken pox, red_spots_over_body malaise high_fever loss_of_appetite mild_fever itching lethargy fatigue
+Dengue, vomiting malaise high_fever red_spots_over_body chills back_pain muscle_pain loss_of_appetite nausea fatigue skin_rash
+Typhoid, diarrhoea abdominal_pain vomiting fatigue chills belly_pain high_fever toxic_look_(typhos)
+hepatitis A, mild_fever yellowish_skin loss_of_appetite diarrhoea muscle_pain abdominal_pain joint_pain yellowing_of_eyes
+Hepatitis B, abdominal_pain receiving_unsterile_injections dark_urine yellow_urine yellowing_of_eyes itching loss_of_appetite fatigue malaise
+Hepatitis C, family_history fatigue yellowish_skin
+Hepatitis D, fatigue nausea yellowing_of_eyes loss_of_appetite yellowish_skin abdominal_pain
+Hepatitis E, coma yellowing_of_eyes high_fever dark_urine joint_pain abdominal_pain fatigue yellowish_skin nausea acute_liver_failure
+Alcoholic hepatitis, distention_of_abdomen history_of_alcohol_consumption vomiting fluid_overload
+Tuberculosis, chills sweating cough loss_of_appetite high_fever mild_fever malaise yellowing_of_eyes fatigue vomiting blood_in_sputum swelled_lymph_nodes weight_loss
+Common Cold, continuous_sneezing runny_nose malaise throat_irritation loss_of_smell redness_of_eyes cough high_fever congestion headache phlegm swelled_lymph_nodes muscle_pain sinus_pressure
+Pneumonia, sweating high_fever fast_heart_rate cough chest_pain breathlessness malaise phlegm
+Dimorphic hemmorhoids(piles), constipation bloody_stool
+Heart attack, breathlessness
+Varicose veins, cramps fatigue obesity bruising
+Hypothyroidism, dizziness lethargy enlarged_thyroid puffy_face_and_eyes weight_gain mood_swings irritability brittle_nails depression cold_hands_and_feets
+Hyperthyroidism, mood_swings excessive_hunger weight_loss abnormal_menstruation fatigue muscle_weakness restlessness fast_heart_rate
+Hypoglycemia, anxiety nausea slurred_speech palpitations irritability blurred_and_distorted_vision vomiting drying_and_tingling_lips sweating
+Osteoarthristis, knee_pain neck_pain swelling_joints
+Arthritis, movement_stiffness muscle_weakness
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance vomiting headache
+Acne, pus_filled_pimples
+Urinary tract infection, bladder_discomfort
+Psoriasis, skin_rash silver_like_dusting inflammatory_nails
+Impetigo, blister skin_rash
+Fungal infection, itching
+Allergy, chills
+GERD, stomach_pain ulcers_on_tongue acidity
+Chronic cholestasis, nausea vomiting yellowish_skin itching
+Drug Reaction, stomach_pain burning_micturition
+Peptic ulcer diseae, passage_of_gases vomiting internal_itching
+AIDS, extra_marital_contacts
+Diabetes , increased_appetite fatigue weight_loss lethargy excessive_hunger polyuria blurred_and_distorted_vision
+Gastroenteritis, dehydration
+Bronchial Asthma, fatigue mucoid_sputum high_fever
+Hypertension , chest_pain headache
+Migraine, visual_disturbances indigestion excessive_hunger blurred_and_distorted_vision depression irritability
+Cervical spondylosis, dizziness weakness_in_limbs
+Paralysis (brain hemorrhage), headache
+Jaundice, weight_loss fatigue dark_urine yellowish_skin vomiting
+Malaria, sweating headache muscle_pain nausea high_fever
+Chicken pox, loss_of_appetite headache lethargy red_spots_over_body high_fever skin_rash fatigue malaise
+Dengue, back_pain joint_pain pain_behind_the_eyes headache skin_rash nausea malaise red_spots_over_body loss_of_appetite high_fever vomiting
+Typhoid, chills belly_pain fatigue constipation nausea diarrhoea headache toxic_look_(typhos)
+hepatitis A, loss_of_appetite joint_pain dark_urine diarrhoea mild_fever yellowish_skin yellowing_of_eyes abdominal_pain
+Hepatitis B, receiving_unsterile_injections yellowing_of_eyes malaise abdominal_pain itching loss_of_appetite yellow_urine fatigue receiving_blood_transfusion
+Hepatitis C, yellowing_of_eyes yellowish_skin nausea
+Hepatitis D, joint_pain dark_urine yellowing_of_eyes loss_of_appetite nausea vomiting
+Hepatitis E, fatigue joint_pain nausea high_fever loss_of_appetite yellowish_skin vomiting abdominal_pain stomach_bleeding coma
+Alcoholic hepatitis, vomiting fluid_overload yellowish_skin distention_of_abdomen
+Tuberculosis, fatigue cough yellowing_of_eyes vomiting sweating high_fever swelled_lymph_nodes weight_loss chest_pain malaise blood_in_sputum loss_of_appetite phlegm
+Common Cold, muscle_pain swelled_lymph_nodes redness_of_eyes sinus_pressure chills throat_irritation congestion chest_pain continuous_sneezing headache cough loss_of_smell phlegm runny_nose
+Pneumonia, malaise cough chills sweating rusty_sputum high_fever fatigue phlegm
+Dimorphic hemmorhoids(piles), bloody_stool pain_in_anal_region
+Heart attack, vomiting
+Varicose veins, obesity swollen_legs bruising prominent_veins_on_calf
+Hypothyroidism, dizziness cold_hands_and_feets weight_gain puffy_face_and_eyes swollen_extremeties mood_swings fatigue lethargy abnormal_menstruation depression
+Hyperthyroidism, irritability diarrhoea muscle_weakness excessive_hunger sweating restlessness fatigue weight_loss
+Hypoglycemia, anxiety blurred_and_distorted_vision excessive_hunger fatigue slurred_speech vomiting drying_and_tingling_lips irritability nausea
+Osteoarthristis, knee_pain painful_walking swelling_joints
+Arthritis, muscle_weakness movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements unsteadiness vomiting
+Acne, blackheads
+Urinary tract infection, burning_micturition
+Psoriasis, joint_pain skin_peeling skin_rash
+Impetigo, high_fever yellow_crust_ooze
+Fungal infection, skin_rash
+Allergy, chills
+GERD, acidity ulcers_on_tongue stomach_pain
+Chronic cholestasis, loss_of_appetite nausea itching vomiting
+Drug Reaction, skin_rash itching
+Peptic ulcer diseae, indigestion vomiting loss_of_appetite
+AIDS, muscle_wasting
+Diabetes , fatigue weight_loss obesity blurred_and_distorted_vision irregular_sugar_level restlessness excessive_hunger
+Gastroenteritis, diarrhoea
+Bronchial Asthma, mucoid_sputum cough family_history
+Hypertension , chest_pain loss_of_balance
+Migraine, blurred_and_distorted_vision headache visual_disturbances indigestion stiff_neck excessive_hunger
+Cervical spondylosis, back_pain neck_pain
+Paralysis (brain hemorrhage), vomiting
+Jaundice, abdominal_pain high_fever dark_urine itching fatigue
+Malaria, nausea diarrhoea high_fever headache vomiting
+Chicken pox, itching fatigue mild_fever lethargy malaise loss_of_appetite red_spots_over_body swelled_lymph_nodes
+Dengue, high_fever headache muscle_pain chills nausea malaise red_spots_over_body skin_rash pain_behind_the_eyes fatigue loss_of_appetite
+Typhoid, nausea belly_pain toxic_look_(typhos) abdominal_pain diarrhoea vomiting chills fatigue
+hepatitis A, loss_of_appetite dark_urine diarrhoea yellowing_of_eyes joint_pain nausea yellowish_skin muscle_pain
+Hepatitis B, itching dark_urine fatigue yellow_urine malaise lethargy loss_of_appetite yellowing_of_eyes yellowish_skin
+Hepatitis C, yellowish_skin loss_of_appetite nausea
+Hepatitis D, fatigue abdominal_pain joint_pain yellowing_of_eyes dark_urine nausea
+Hepatitis E, dark_urine coma stomach_bleeding nausea loss_of_appetite vomiting high_fever yellowing_of_eyes yellowish_skin fatigue
+Alcoholic hepatitis, fluid_overload distention_of_abdomen vomiting swelling_of_stomach
+Tuberculosis, phlegm loss_of_appetite weight_loss cough chest_pain chills fatigue breathlessness vomiting malaise swelled_lymph_nodes mild_fever yellowing_of_eyes
+Common Cold, phlegm chills congestion cough runny_nose malaise chest_pain sinus_pressure headache redness_of_eyes continuous_sneezing fatigue throat_irritation swelled_lymph_nodes
+Pneumonia, malaise phlegm fast_heart_rate chest_pain rusty_sputum high_fever sweating cough
+Dimorphic hemmorhoids(piles), irritation_in_anus bloody_stool
+Heart attack, breathlessness
+Varicose veins, obesity cramps swollen_blood_vessels fatigue
+Hypothyroidism, brittle_nails dizziness abnormal_menstruation enlarged_thyroid depression mood_swings weight_gain lethargy puffy_face_and_eyes swollen_extremeties
+Hyperthyroidism, excessive_hunger weight_loss mood_swings irritability restlessness diarrhoea fatigue abnormal_menstruation
+Hypoglycemia, blurred_and_distorted_vision headache palpitations vomiting anxiety nausea fatigue sweating slurred_speech
+Osteoarthristis, neck_pain joint_pain painful_walking
+Arthritis, swelling_joints painful_walking
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance vomiting nausea
+Acne, scurring
+Urinary tract infection, bladder_discomfort
+Psoriasis, small_dents_in_nails silver_like_dusting joint_pain
+Impetigo, blister yellow_crust_ooze
+Fungal infection, skin_rash
+Allergy, chills
+GERD, stomach_pain cough vomiting
+Chronic cholestasis, yellowish_skin itching loss_of_appetite nausea
+Drug Reaction, spotting_urination stomach_pain
+Peptic ulcer diseae, loss_of_appetite passage_of_gases internal_itching
+AIDS, extra_marital_contacts
+Diabetes , increased_appetite obesity fatigue weight_loss irregular_sugar_level blurred_and_distorted_vision restlessness
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, mucoid_sputum high_fever family_history
+Hypertension , loss_of_balance lack_of_concentration
+Migraine, headache irritability blurred_and_distorted_vision depression visual_disturbances excessive_hunger
+Cervical spondylosis, dizziness back_pain
+Paralysis (brain hemorrhage), headache
+Jaundice, fatigue high_fever weight_loss vomiting dark_urine
+Malaria, vomiting chills high_fever sweating nausea
+Chicken pox, headache skin_rash itching lethargy loss_of_appetite red_spots_over_body fatigue mild_fever
+Dengue, nausea loss_of_appetite red_spots_over_body skin_rash vomiting pain_behind_the_eyes headache malaise muscle_pain chills joint_pain
+Typhoid, fatigue toxic_look_(typhos) high_fever vomiting chills constipation abdominal_pain nausea
+hepatitis A, abdominal_pain muscle_pain nausea mild_fever loss_of_appetite joint_pain yellowish_skin vomiting
+Hepatitis B, lethargy malaise yellowish_skin abdominal_pain receiving_unsterile_injections yellowing_of_eyes dark_urine fatigue receiving_blood_transfusion
+Hepatitis C, family_history loss_of_appetite yellowing_of_eyes
+Hepatitis D, yellowing_of_eyes dark_urine abdominal_pain yellowish_skin joint_pain nausea
+Hepatitis E, vomiting dark_urine fatigue loss_of_appetite joint_pain yellowish_skin stomach_bleeding acute_liver_failure abdominal_pain high_fever
+Alcoholic hepatitis, swelling_of_stomach distention_of_abdomen history_of_alcohol_consumption vomiting
+Tuberculosis, sweating chest_pain vomiting weight_loss malaise loss_of_appetite mild_fever phlegm yellowing_of_eyes swelled_lymph_nodes cough chills breathlessness
+Common Cold, sinus_pressure high_fever continuous_sneezing runny_nose headache cough redness_of_eyes chills congestion phlegm chest_pain loss_of_smell swelled_lymph_nodes fatigue
+Pneumonia, fast_heart_rate breathlessness sweating malaise phlegm fatigue high_fever chest_pain
+Dimorphic hemmorhoids(piles), irritation_in_anus bloody_stool
+Heart attack, chest_pain
+Varicose veins, swollen_blood_vessels swollen_legs cramps obesity
+Hypothyroidism, weight_gain mood_swings enlarged_thyroid cold_hands_and_feets abnormal_menstruation depression dizziness irritability lethargy fatigue
+Hyperthyroidism, muscle_weakness excessive_hunger fatigue abnormal_menstruation mood_swings weight_loss fast_heart_rate restlessness
+Hypoglycemia, blurred_and_distorted_vision anxiety drying_and_tingling_lips sweating headache nausea irritability slurred_speech excessive_hunger
+Osteoarthristis, swelling_joints neck_pain hip_joint_pain
+Arthritis, muscle_weakness movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, nausea vomiting unsteadiness
+Acne, pus_filled_pimples
+Urinary tract infection, burning_micturition
+Psoriasis, silver_like_dusting inflammatory_nails small_dents_in_nails
+Impetigo, red_sore_around_nose yellow_crust_ooze
+Fungal infection, dischromic_patches
+Allergy, shivering
+GERD, chest_pain ulcers_on_tongue vomiting
+Chronic cholestasis, yellowing_of_eyes abdominal_pain loss_of_appetite vomiting
+Drug Reaction, skin_rash spotting_urination
+Peptic ulcer diseae, passage_of_gases indigestion loss_of_appetite
+AIDS, muscle_wasting
+Diabetes , weight_loss lethargy increased_appetite restlessness blurred_and_distorted_vision polyuria excessive_hunger
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, high_fever fatigue cough
+Hypertension , lack_of_concentration chest_pain
+Migraine, visual_disturbances depression indigestion headache blurred_and_distorted_vision acidity
+Cervical spondylosis, back_pain weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting
+Jaundice, dark_urine weight_loss vomiting abdominal_pain fatigue
+Malaria, nausea sweating high_fever vomiting diarrhoea
+Chicken pox, mild_fever fatigue loss_of_appetite itching headache red_spots_over_body skin_rash malaise
+Dengue, vomiting headache muscle_pain back_pain malaise high_fever chills red_spots_over_body pain_behind_the_eyes nausea joint_pain
+Typhoid, chills diarrhoea vomiting abdominal_pain headache belly_pain high_fever toxic_look_(typhos)
+hepatitis A, abdominal_pain diarrhoea mild_fever muscle_pain joint_pain yellowish_skin dark_urine yellowing_of_eyes
+Hepatitis B, loss_of_appetite yellowish_skin malaise abdominal_pain dark_urine yellowing_of_eyes itching receiving_unsterile_injections yellow_urine
+Hepatitis C, yellowing_of_eyes fatigue loss_of_appetite
+Hepatitis D, loss_of_appetite fatigue joint_pain nausea abdominal_pain yellowing_of_eyes
+Hepatitis E, yellowish_skin high_fever nausea coma yellowing_of_eyes stomach_bleeding abdominal_pain dark_urine vomiting acute_liver_failure
+Alcoholic hepatitis, yellowish_skin vomiting swelling_of_stomach history_of_alcohol_consumption
+Tuberculosis, sweating cough malaise swelled_lymph_nodes fatigue breathlessness mild_fever chest_pain blood_in_sputum high_fever loss_of_appetite weight_loss chills
+Common Cold, malaise redness_of_eyes throat_irritation sinus_pressure cough swelled_lymph_nodes phlegm congestion continuous_sneezing chest_pain chills headache runny_nose muscle_pain
+Pneumonia, rusty_sputum breathlessness cough high_fever chest_pain fast_heart_rate sweating phlegm
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements pain_in_anal_region
+Heart attack, chest_pain
+Varicose veins, fatigue obesity bruising swollen_legs
+Hypothyroidism, puffy_face_and_eyes weight_gain dizziness swollen_extremeties depression lethargy mood_swings fatigue enlarged_thyroid brittle_nails
+Hyperthyroidism, diarrhoea mood_swings muscle_weakness abnormal_menstruation sweating excessive_hunger restlessness fatigue
+Hypoglycemia, nausea irritability palpitations slurred_speech fatigue sweating anxiety headache drying_and_tingling_lips
+Osteoarthristis, knee_pain painful_walking swelling_joints
+Arthritis, stiff_neck muscle_weakness
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements vomiting nausea
+Acne, scurring
+Urinary tract infection, continuous_feel_of_urine
+Psoriasis, silver_like_dusting skin_rash inflammatory_nails
+Impetigo, red_sore_around_nose high_fever
+Fungal infection, nodal_skin_eruptions
+Allergy, watering_from_eyes
+GERD, vomiting acidity stomach_pain
+Chronic cholestasis, abdominal_pain yellowish_skin loss_of_appetite yellowing_of_eyes
+Drug Reaction, spotting_urination skin_rash
+Peptic ulcer diseae, loss_of_appetite passage_of_gases internal_itching
+AIDS, high_fever
+Diabetes , obesity excessive_hunger lethargy irregular_sugar_level blurred_and_distorted_vision increased_appetite restlessness
+Gastroenteritis, dehydration
+Bronchial Asthma, breathlessness fatigue high_fever
+Hypertension , chest_pain headache
+Migraine, depression indigestion acidity headache excessive_hunger irritability
+Cervical spondylosis, weakness_in_limbs loss_of_balance
+Paralysis (brain hemorrhage), vomiting
+Jaundice, fatigue dark_urine abdominal_pain weight_loss high_fever
+Malaria, nausea muscle_pain vomiting headache chills
+Chicken pox, fatigue malaise mild_fever red_spots_over_body high_fever lethargy skin_rash itching
+Dengue, skin_rash high_fever muscle_pain vomiting red_spots_over_body chills headache fatigue nausea joint_pain pain_behind_the_eyes
+Typhoid, headache belly_pain fatigue vomiting constipation abdominal_pain high_fever chills
+hepatitis A, muscle_pain loss_of_appetite joint_pain dark_urine vomiting yellowish_skin abdominal_pain mild_fever
+Hepatitis B, loss_of_appetite lethargy yellowish_skin itching yellow_urine abdominal_pain fatigue receiving_blood_transfusion yellowing_of_eyes
+Hepatitis C, nausea yellowing_of_eyes yellowish_skin
+Hepatitis D, yellowing_of_eyes dark_urine fatigue nausea vomiting yellowish_skin
+Hepatitis E, vomiting abdominal_pain acute_liver_failure stomach_bleeding loss_of_appetite joint_pain high_fever yellowing_of_eyes dark_urine nausea
+Alcoholic hepatitis, fluid_overload abdominal_pain swelling_of_stomach distention_of_abdomen
+Tuberculosis, chest_pain breathlessness mild_fever swelled_lymph_nodes chills fatigue yellowing_of_eyes vomiting sweating malaise high_fever weight_loss phlegm
+Common Cold, chest_pain fatigue phlegm runny_nose sinus_pressure throat_irritation redness_of_eyes congestion continuous_sneezing high_fever loss_of_smell headache chills swelled_lymph_nodes
+Pneumonia, chills high_fever rusty_sputum fatigue cough chest_pain fast_heart_rate phlegm
+Dimorphic hemmorhoids(piles), constipation pain_in_anal_region
+Heart attack, vomiting
+Varicose veins, bruising cramps swollen_blood_vessels prominent_veins_on_calf
+Hypothyroidism, abnormal_menstruation dizziness fatigue weight_gain enlarged_thyroid puffy_face_and_eyes brittle_nails swollen_extremeties lethargy depression
+Hyperthyroidism, abnormal_menstruation weight_loss excessive_hunger mood_swings irritability muscle_weakness diarrhoea sweating
+Hypoglycemia, slurred_speech palpitations drying_and_tingling_lips headache anxiety excessive_hunger vomiting irritability sweating
+Osteoarthristis, swelling_joints neck_pain joint_pain
+Arthritis, stiff_neck swelling_joints
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements nausea loss_of_balance
+Acne, skin_rash
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, joint_pain small_dents_in_nails skin_rash
+Impetigo, skin_rash red_sore_around_nose
+Fungal infection, nodal_skin_eruptions
+Allergy, chills
+GERD, cough acidity ulcers_on_tongue
+Chronic cholestasis, abdominal_pain nausea yellowing_of_eyes itching
+Drug Reaction, skin_rash burning_micturition
+Peptic ulcer diseae, abdominal_pain internal_itching vomiting
+AIDS, patches_in_throat
+Diabetes , increased_appetite weight_loss obesity restlessness irregular_sugar_level excessive_hunger polyuria
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, family_history cough mucoid_sputum
+Hypertension , lack_of_concentration dizziness
+Migraine, irritability indigestion depression visual_disturbances excessive_hunger headache
+Cervical spondylosis, dizziness weakness_in_limbs
+Paralysis (brain hemorrhage), altered_sensorium
+Jaundice, high_fever yellowish_skin fatigue dark_urine weight_loss
+Malaria, sweating headache muscle_pain nausea vomiting
+Chicken pox, loss_of_appetite red_spots_over_body fatigue mild_fever itching skin_rash swelled_lymph_nodes malaise
+Dengue, nausea chills joint_pain malaise pain_behind_the_eyes high_fever vomiting skin_rash muscle_pain red_spots_over_body headache
+Typhoid, constipation fatigue nausea diarrhoea belly_pain chills abdominal_pain toxic_look_(typhos)
+hepatitis A, joint_pain muscle_pain nausea vomiting yellowing_of_eyes yellowish_skin abdominal_pain dark_urine
+Hepatitis B, receiving_blood_transfusion yellowish_skin loss_of_appetite malaise abdominal_pain dark_urine fatigue itching receiving_unsterile_injections
+Hepatitis C, yellowish_skin family_history loss_of_appetite
+Hepatitis D, vomiting dark_urine loss_of_appetite yellowish_skin yellowing_of_eyes joint_pain
+Hepatitis E, fatigue vomiting yellowing_of_eyes abdominal_pain stomach_bleeding high_fever yellowish_skin dark_urine joint_pain loss_of_appetite
+Alcoholic hepatitis, distention_of_abdomen vomiting abdominal_pain history_of_alcohol_consumption
+Tuberculosis, weight_loss cough high_fever malaise mild_fever blood_in_sputum yellowing_of_eyes vomiting fatigue chills sweating phlegm breathlessness
+Common Cold, fatigue chest_pain phlegm redness_of_eyes chills malaise runny_nose continuous_sneezing throat_irritation loss_of_smell muscle_pain swelled_lymph_nodes sinus_pressure headache
+Pneumonia, sweating fast_heart_rate breathlessness phlegm cough fatigue chest_pain rusty_sputum
+Dimorphic hemmorhoids(piles), pain_in_anal_region irritation_in_anus
+Heart attack, vomiting
+Varicose veins, swollen_legs bruising cramps fatigue
+Hypothyroidism, dizziness depression weight_gain lethargy brittle_nails enlarged_thyroid cold_hands_and_feets swollen_extremeties puffy_face_and_eyes abnormal_menstruation
+Hyperthyroidism, mood_swings weight_loss fatigue diarrhoea excessive_hunger abnormal_menstruation sweating muscle_weakness
+Hypoglycemia, palpitations vomiting sweating excessive_hunger slurred_speech fatigue headache irritability blurred_and_distorted_vision
+Osteoarthristis, knee_pain neck_pain swelling_joints
+Arthritis, stiff_neck movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements headache nausea
+Acne, blackheads
+Urinary tract infection, burning_micturition
+Psoriasis, skin_rash inflammatory_nails small_dents_in_nails
+Impetigo, blister high_fever
+Fungal infection, skin_rash
+Allergy, shivering
+GERD, chest_pain acidity stomach_pain
+Chronic cholestasis, nausea abdominal_pain vomiting loss_of_appetite
+Drug Reaction, skin_rash spotting_urination
+Peptic ulcer diseae, passage_of_gases abdominal_pain indigestion
+AIDS, muscle_wasting
+Diabetes , fatigue irregular_sugar_level restlessness increased_appetite lethargy obesity blurred_and_distorted_vision
+Gastroenteritis, dehydration
+Bronchial Asthma, high_fever family_history mucoid_sputum
+Hypertension , chest_pain dizziness
+Migraine, visual_disturbances headache stiff_neck irritability depression excessive_hunger
+Cervical spondylosis, weakness_in_limbs neck_pain
+Paralysis (brain hemorrhage), vomiting
+Jaundice, yellowish_skin weight_loss abdominal_pain fatigue itching
+Malaria, sweating diarrhoea vomiting chills headache
+Chicken pox, loss_of_appetite skin_rash fatigue high_fever itching red_spots_over_body headache malaise
+Dengue, muscle_pain fatigue red_spots_over_body vomiting loss_of_appetite pain_behind_the_eyes nausea malaise high_fever joint_pain chills
+Typhoid, nausea toxic_look_(typhos) high_fever abdominal_pain diarrhoea vomiting chills belly_pain
+hepatitis A, yellowing_of_eyes abdominal_pain loss_of_appetite diarrhoea dark_urine yellowish_skin vomiting nausea
+Hepatitis B, yellowing_of_eyes abdominal_pain receiving_blood_transfusion loss_of_appetite receiving_unsterile_injections dark_urine yellowish_skin fatigue malaise
+Hepatitis C, yellowing_of_eyes yellowish_skin nausea
+Hepatitis D, vomiting fatigue loss_of_appetite joint_pain yellowing_of_eyes abdominal_pain
+Hepatitis E, dark_urine stomach_bleeding nausea loss_of_appetite abdominal_pain fatigue acute_liver_failure yellowing_of_eyes vomiting yellowish_skin
+Alcoholic hepatitis, vomiting history_of_alcohol_consumption abdominal_pain fluid_overload
+Tuberculosis, breathlessness yellowing_of_eyes weight_loss phlegm chest_pain blood_in_sputum mild_fever high_fever cough loss_of_appetite sweating vomiting fatigue
+Common Cold, fatigue cough redness_of_eyes chills loss_of_smell sinus_pressure headache runny_nose swelled_lymph_nodes chest_pain phlegm continuous_sneezing malaise high_fever
+Pneumonia, phlegm breathlessness high_fever chills fast_heart_rate malaise fatigue sweating
+Dimorphic hemmorhoids(piles), constipation bloody_stool
+Heart attack, vomiting
+Varicose veins, fatigue prominent_veins_on_calf cramps swollen_blood_vessels
+Hypothyroidism, lethargy dizziness depression irritability swollen_extremeties fatigue puffy_face_and_eyes abnormal_menstruation enlarged_thyroid mood_swings
+Hyperthyroidism, mood_swings muscle_weakness weight_loss excessive_hunger irritability fast_heart_rate sweating fatigue
+Hypoglycemia, excessive_hunger slurred_speech fatigue sweating nausea irritability anxiety headache blurred_and_distorted_vision
+Osteoarthristis, joint_pain painful_walking hip_joint_pain
+Arthritis, muscle_weakness stiff_neck
+(vertigo) Paroymsal  Positional Vertigo, unsteadiness nausea headache
+Acne, pus_filled_pimples
+Urinary tract infection, bladder_discomfort
+Psoriasis, skin_peeling joint_pain small_dents_in_nails
+Impetigo, high_fever blister
+Fungal infection, nodal_skin_eruptions
+Allergy, watering_from_eyes
+GERD, acidity chest_pain vomiting
+Chronic cholestasis, loss_of_appetite yellowish_skin nausea abdominal_pain
+Drug Reaction, itching stomach_pain
+Peptic ulcer diseae, internal_itching passage_of_gases vomiting
+AIDS, extra_marital_contacts
+Diabetes , irregular_sugar_level fatigue obesity excessive_hunger polyuria lethargy weight_loss
+Gastroenteritis, diarrhoea
+Bronchial Asthma, breathlessness family_history fatigue
+Hypertension , lack_of_concentration loss_of_balance
+Migraine, depression excessive_hunger indigestion acidity irritability blurred_and_distorted_vision
+Cervical spondylosis, loss_of_balance back_pain
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, vomiting fatigue high_fever abdominal_pain yellowish_skin
+Malaria, vomiting high_fever muscle_pain diarrhoea sweating
+Chicken pox, red_spots_over_body high_fever loss_of_appetite headache itching mild_fever malaise lethargy
+Dengue, red_spots_over_body muscle_pain nausea high_fever malaise skin_rash pain_behind_the_eyes chills loss_of_appetite fatigue headache
+Typhoid, diarrhoea headache fatigue constipation toxic_look_(typhos) abdominal_pain nausea chills
+hepatitis A, vomiting joint_pain nausea diarrhoea abdominal_pain loss_of_appetite yellowing_of_eyes yellowish_skin
+Hepatitis B, receiving_blood_transfusion yellowing_of_eyes dark_urine abdominal_pain lethargy receiving_unsterile_injections loss_of_appetite malaise fatigue
+Hepatitis C, family_history fatigue yellowing_of_eyes
+Hepatitis D, yellowish_skin nausea yellowing_of_eyes vomiting loss_of_appetite fatigue
+Hepatitis E, dark_urine acute_liver_failure fatigue high_fever nausea yellowish_skin yellowing_of_eyes abdominal_pain joint_pain stomach_bleeding
+Alcoholic hepatitis, history_of_alcohol_consumption fluid_overload abdominal_pain swelling_of_stomach
+Tuberculosis, loss_of_appetite sweating high_fever vomiting cough mild_fever yellowing_of_eyes blood_in_sputum swelled_lymph_nodes phlegm weight_loss breathlessness chest_pain
+Common Cold, cough muscle_pain loss_of_smell malaise continuous_sneezing high_fever swelled_lymph_nodes congestion runny_nose throat_irritation redness_of_eyes sinus_pressure chest_pain phlegm
+Pneumonia, fatigue chills phlegm high_fever rusty_sputum malaise sweating cough
+Dimorphic hemmorhoids(piles), pain_in_anal_region constipation
+Heart attack, chest_pain
+Varicose veins, swollen_blood_vessels obesity bruising swollen_legs
+Hypothyroidism, depression cold_hands_and_feets abnormal_menstruation mood_swings irritability brittle_nails swollen_extremeties weight_gain fatigue lethargy
+Hyperthyroidism, excessive_hunger abnormal_menstruation restlessness fatigue weight_loss fast_heart_rate mood_swings irritability
+Hypoglycemia, blurred_and_distorted_vision irritability slurred_speech drying_and_tingling_lips excessive_hunger sweating headache palpitations vomiting
+Osteoarthristis, knee_pain hip_joint_pain swelling_joints
+Arthritis, stiff_neck movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, nausea headache unsteadiness
+Acne, blackheads
+Urinary tract infection, bladder_discomfort
+Psoriasis, skin_rash joint_pain small_dents_in_nails
+Impetigo, yellow_crust_ooze skin_rash
+Fungal infection, itching
+Allergy, continuous_sneezing
+GERD, cough stomach_pain chest_pain
+Chronic cholestasis, loss_of_appetite itching nausea abdominal_pain
+Drug Reaction, spotting_urination burning_micturition
+Peptic ulcer diseae, abdominal_pain loss_of_appetite vomiting
+AIDS, patches_in_throat
+Diabetes , weight_loss fatigue increased_appetite restlessness lethargy excessive_hunger irregular_sugar_level
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, breathlessness high_fever cough
+Hypertension , dizziness headache
+Migraine, indigestion excessive_hunger visual_disturbances depression blurred_and_distorted_vision irritability
+Cervical spondylosis, loss_of_balance weakness_in_limbs
+Paralysis (brain hemorrhage), altered_sensorium
+Jaundice, yellowish_skin high_fever vomiting fatigue abdominal_pain
+Malaria, headache sweating vomiting chills high_fever
+Chicken pox, headache itching red_spots_over_body fatigue malaise lethargy high_fever skin_rash
+Dengue, vomiting muscle_pain headache nausea back_pain chills fatigue loss_of_appetite malaise red_spots_over_body joint_pain
+Typhoid, belly_pain abdominal_pain vomiting toxic_look_(typhos) fatigue constipation high_fever headache
+hepatitis A, dark_urine joint_pain nausea abdominal_pain diarrhoea mild_fever yellowing_of_eyes muscle_pain
+Hepatitis B, yellowing_of_eyes receiving_blood_transfusion lethargy loss_of_appetite malaise receiving_unsterile_injections yellowish_skin dark_urine itching
+Hepatitis C, yellowish_skin family_history loss_of_appetite
+Hepatitis D, loss_of_appetite nausea abdominal_pain yellowing_of_eyes joint_pain dark_urine
+Hepatitis E, fatigue yellowing_of_eyes coma acute_liver_failure loss_of_appetite joint_pain vomiting stomach_bleeding high_fever nausea
+Alcoholic hepatitis, history_of_alcohol_consumption yellowish_skin vomiting fluid_overload
+Tuberculosis, sweating mild_fever breathlessness vomiting chills high_fever fatigue phlegm swelled_lymph_nodes yellowing_of_eyes cough malaise weight_loss
+Common Cold, headache muscle_pain continuous_sneezing malaise redness_of_eyes chills swelled_lymph_nodes sinus_pressure chest_pain throat_irritation loss_of_smell cough fatigue phlegm
+Pneumonia, chills chest_pain fast_heart_rate sweating cough fatigue malaise high_fever
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements pain_in_anal_region
+Heart attack, breathlessness
+Varicose veins, bruising swollen_blood_vessels swollen_legs obesity
+Hypothyroidism, cold_hands_and_feets swollen_extremeties weight_gain dizziness abnormal_menstruation mood_swings irritability depression puffy_face_and_eyes fatigue
+Hyperthyroidism, weight_loss diarrhoea fatigue fast_heart_rate abnormal_menstruation muscle_weakness sweating restlessness
+Hypoglycemia, palpitations sweating drying_and_tingling_lips fatigue vomiting slurred_speech anxiety blurred_and_distorted_vision nausea
+Osteoarthristis, knee_pain painful_walking hip_joint_pain
+Arthritis, swelling_joints muscle_weakness
+(vertigo) Paroymsal  Positional Vertigo, loss_of_balance unsteadiness headache
+Acne, blackheads
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, small_dents_in_nails skin_rash joint_pain
+Impetigo, high_fever blister
+Fungal infection, itching
+Allergy, continuous_sneezing
+GERD, stomach_pain vomiting chest_pain
+Chronic cholestasis, nausea itching vomiting loss_of_appetite
+Drug Reaction, burning_micturition stomach_pain
+Peptic ulcer diseae, internal_itching indigestion passage_of_gases
+AIDS, muscle_wasting
+Diabetes , irregular_sugar_level polyuria excessive_hunger blurred_and_distorted_vision lethargy obesity restlessness
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, fatigue family_history cough
+Hypertension , headache lack_of_concentration
+Migraine, irritability excessive_hunger blurred_and_distorted_vision acidity headache stiff_neck
+Cervical spondylosis, loss_of_balance weakness_in_limbs
+Paralysis (brain hemorrhage), weakness_of_one_body_side
+Jaundice, dark_urine weight_loss fatigue abdominal_pain vomiting
+Malaria, muscle_pain vomiting sweating headache high_fever
+Chicken pox, malaise swelled_lymph_nodes lethargy fatigue high_fever loss_of_appetite itching headache
+Dengue, loss_of_appetite red_spots_over_body joint_pain headache back_pain chills fatigue high_fever malaise muscle_pain nausea
+Typhoid, nausea high_fever constipation chills belly_pain vomiting abdominal_pain fatigue
+hepatitis A, mild_fever vomiting nausea yellowing_of_eyes yellowish_skin joint_pain diarrhoea abdominal_pain
+Hepatitis B, yellowing_of_eyes receiving_blood_transfusion yellowish_skin dark_urine fatigue loss_of_appetite lethargy malaise yellow_urine
+Hepatitis C, family_history fatigue yellowing_of_eyes
+Hepatitis D, loss_of_appetite nausea vomiting dark_urine yellowing_of_eyes fatigue
+Hepatitis E, vomiting yellowing_of_eyes stomach_bleeding dark_urine yellowish_skin joint_pain acute_liver_failure fatigue loss_of_appetite coma
+Alcoholic hepatitis, fluid_overload distention_of_abdomen history_of_alcohol_consumption swelling_of_stomach
+Tuberculosis, malaise cough sweating fatigue yellowing_of_eyes weight_loss phlegm loss_of_appetite swelled_lymph_nodes chills mild_fever vomiting breathlessness
+Common Cold, chills phlegm headache throat_irritation muscle_pain continuous_sneezing chest_pain high_fever malaise runny_nose swelled_lymph_nodes loss_of_smell congestion fatigue
+Pneumonia, rusty_sputum sweating chills fatigue high_fever breathlessness malaise cough
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements bloody_stool
+Heart attack, chest_pain
+Varicose veins, swollen_blood_vessels swollen_legs bruising cramps
+Hypothyroidism, lethargy enlarged_thyroid cold_hands_and_feets abnormal_menstruation brittle_nails fatigue puffy_face_and_eyes swollen_extremeties dizziness weight_gain
+Hyperthyroidism, muscle_weakness weight_loss restlessness mood_swings fast_heart_rate excessive_hunger irritability abnormal_menstruation
+Hypoglycemia, sweating headache irritability nausea slurred_speech blurred_and_distorted_vision excessive_hunger fatigue vomiting
+Osteoarthristis, painful_walking hip_joint_pain neck_pain
+Arthritis, movement_stiffness painful_walking
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements unsteadiness loss_of_balance
+Acne, scurring
+Urinary tract infection, continuous_feel_of_urine
+Psoriasis, inflammatory_nails skin_peeling small_dents_in_nails
+Impetigo, blister yellow_crust_ooze
+Fungal infection, skin_rash
+Allergy, watering_from_eyes
+GERD, vomiting cough chest_pain
+Chronic cholestasis, yellowish_skin vomiting yellowing_of_eyes loss_of_appetite
+Drug Reaction, spotting_urination itching
+Peptic ulcer diseae, indigestion loss_of_appetite internal_itching
+AIDS, extra_marital_contacts
+Diabetes , fatigue blurred_and_distorted_vision obesity lethargy polyuria weight_loss excessive_hunger
+Gastroenteritis, dehydration
+Bronchial Asthma, fatigue family_history high_fever
+Hypertension , chest_pain lack_of_concentration
+Migraine, irritability depression stiff_neck indigestion acidity excessive_hunger
+Cervical spondylosis, back_pain weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting
+Jaundice, fatigue weight_loss abdominal_pain dark_urine vomiting
+Malaria, muscle_pain sweating vomiting headache nausea
+Chicken pox, high_fever fatigue skin_rash itching red_spots_over_body swelled_lymph_nodes headache malaise
+Dengue, malaise chills headache red_spots_over_body skin_rash fatigue high_fever pain_behind_the_eyes vomiting nausea muscle_pain
+Typhoid, abdominal_pain headache high_fever fatigue diarrhoea belly_pain vomiting toxic_look_(typhos)
+hepatitis A, dark_urine vomiting muscle_pain joint_pain yellowish_skin loss_of_appetite diarrhoea nausea
+Hepatitis B, itching receiving_unsterile_injections yellow_urine abdominal_pain lethargy yellowing_of_eyes dark_urine yellowish_skin malaise
+Hepatitis C, fatigue loss_of_appetite nausea
+Hepatitis D, dark_urine nausea yellowing_of_eyes loss_of_appetite abdominal_pain vomiting
+Hepatitis E, fatigue dark_urine loss_of_appetite stomach_bleeding coma joint_pain abdominal_pain vomiting high_fever yellowing_of_eyes
+Alcoholic hepatitis, fluid_overload history_of_alcohol_consumption vomiting abdominal_pain
+Tuberculosis, loss_of_appetite chest_pain blood_in_sputum vomiting sweating weight_loss breathlessness high_fever cough yellowing_of_eyes phlegm malaise fatigue
+Common Cold, swelled_lymph_nodes continuous_sneezing fatigue chest_pain cough chills runny_nose malaise throat_irritation headache redness_of_eyes high_fever congestion muscle_pain
+Pneumonia, malaise breathlessness chills sweating fast_heart_rate phlegm cough chest_pain
+Dimorphic hemmorhoids(piles), pain_in_anal_region pain_during_bowel_movements
+Heart attack, chest_pain
+Varicose veins, cramps fatigue prominent_veins_on_calf bruising
+Hypothyroidism, enlarged_thyroid cold_hands_and_feets fatigue lethargy abnormal_menstruation brittle_nails weight_gain irritability dizziness mood_swings
+Hyperthyroidism, fast_heart_rate weight_loss restlessness sweating irritability excessive_hunger muscle_weakness diarrhoea
+Hypoglycemia, fatigue anxiety palpitations headache excessive_hunger slurred_speech blurred_and_distorted_vision drying_and_tingling_lips nausea
+Osteoarthristis, swelling_joints joint_pain knee_pain
+Arthritis, stiff_neck swelling_joints
+(vertigo) Paroymsal  Positional Vertigo, unsteadiness spinning_movements headache
+Acne, scurring
+Urinary tract infection, burning_micturition
+Psoriasis, skin_peeling silver_like_dusting skin_rash
+Impetigo, red_sore_around_nose yellow_crust_ooze
+Fungal infection, dischromic_patches
+Allergy, watering_from_eyes
+GERD, acidity chest_pain vomiting
+Chronic cholestasis, itching yellowish_skin loss_of_appetite yellowing_of_eyes
+Drug Reaction, skin_rash itching
+Peptic ulcer diseae, internal_itching passage_of_gases vomiting
+AIDS, high_fever
+Diabetes , weight_loss irregular_sugar_level lethargy obesity fatigue restlessness blurred_and_distorted_vision
+Gastroenteritis, dehydration
+Bronchial Asthma, family_history high_fever fatigue
+Hypertension , lack_of_concentration headache
+Migraine, blurred_and_distorted_vision visual_disturbances depression headache indigestion excessive_hunger
+Cervical spondylosis, weakness_in_limbs back_pain
+Paralysis (brain hemorrhage), headache
+Jaundice, fatigue yellowish_skin abdominal_pain weight_loss itching
+Malaria, chills nausea vomiting headache muscle_pain
+Chicken pox, mild_fever loss_of_appetite lethargy swelled_lymph_nodes red_spots_over_body skin_rash itching malaise
+Dengue, back_pain skin_rash muscle_pain pain_behind_the_eyes red_spots_over_body headache joint_pain vomiting nausea fatigue loss_of_appetite
+Typhoid, high_fever vomiting abdominal_pain toxic_look_(typhos) belly_pain nausea headache fatigue
+hepatitis A, dark_urine loss_of_appetite abdominal_pain joint_pain vomiting yellowing_of_eyes nausea muscle_pain
+Hepatitis B, lethargy yellow_urine fatigue dark_urine receiving_unsterile_injections receiving_blood_transfusion loss_of_appetite abdominal_pain yellowing_of_eyes
+Hepatitis C, family_history loss_of_appetite yellowing_of_eyes
+Hepatitis D, yellowing_of_eyes joint_pain abdominal_pain vomiting dark_urine loss_of_appetite
+Hepatitis E, yellowish_skin acute_liver_failure joint_pain coma stomach_bleeding vomiting yellowing_of_eyes loss_of_appetite high_fever fatigue
+Alcoholic hepatitis, fluid_overload swelling_of_stomach abdominal_pain yellowish_skin
+Tuberculosis, sweating weight_loss swelled_lymph_nodes phlegm loss_of_appetite vomiting breathlessness mild_fever fatigue malaise high_fever cough chills
+Common Cold, high_fever continuous_sneezing phlegm loss_of_smell redness_of_eyes headache muscle_pain chills throat_irritation sinus_pressure congestion swelled_lymph_nodes runny_nose fatigue
+Pneumonia, cough malaise breathlessness chills chest_pain rusty_sputum high_fever fast_heart_rate
+Dimorphic hemmorhoids(piles), bloody_stool irritation_in_anus
+Heart attack, sweating
+Varicose veins, bruising prominent_veins_on_calf swollen_blood_vessels fatigue
+Hypothyroidism, cold_hands_and_feets depression dizziness enlarged_thyroid lethargy mood_swings fatigue puffy_face_and_eyes brittle_nails swollen_extremeties
+Hyperthyroidism, excessive_hunger fatigue muscle_weakness abnormal_menstruation weight_loss sweating diarrhoea irritability
+Hypoglycemia, headache irritability blurred_and_distorted_vision drying_and_tingling_lips fatigue palpitations excessive_hunger sweating nausea
+Osteoarthristis, painful_walking swelling_joints joint_pain
+Arthritis, muscle_weakness movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, spinning_movements headache vomiting
+Acne, skin_rash
+Urinary tract infection, foul_smell_ofurine
+Psoriasis, skin_rash joint_pain inflammatory_nails
+Impetigo, high_fever red_sore_around_nose
+Fungal infection, dischromic_patches
+Allergy, shivering
+GERD, acidity chest_pain stomach_pain
+Chronic cholestasis, nausea loss_of_appetite itching yellowish_skin
+Drug Reaction, burning_micturition stomach_pain
+Peptic ulcer diseae, passage_of_gases indigestion internal_itching
+AIDS, muscle_wasting
+Diabetes , restlessness blurred_and_distorted_vision obesity weight_loss lethargy polyuria fatigue
+Gastroenteritis, sunken_eyes
+Bronchial Asthma, cough high_fever mucoid_sputum
+Hypertension , headache lack_of_concentration
+Migraine, acidity visual_disturbances headache excessive_hunger blurred_and_distorted_vision indigestion
+Cervical spondylosis, back_pain weakness_in_limbs
+Paralysis (brain hemorrhage), vomiting
+Jaundice, yellowish_skin high_fever dark_urine abdominal_pain itching
+Malaria, sweating muscle_pain vomiting diarrhoea headache
+Chicken pox, high_fever fatigue loss_of_appetite mild_fever itching lethargy swelled_lymph_nodes malaise
+Dengue, high_fever pain_behind_the_eyes chills back_pain fatigue muscle_pain skin_rash red_spots_over_body joint_pain nausea loss_of_appetite
+Typhoid, nausea vomiting chills belly_pain constipation headache fatigue abdominal_pain
+hepatitis A, abdominal_pain muscle_pain yellowing_of_eyes mild_fever diarrhoea joint_pain dark_urine loss_of_appetite
+Hepatitis B, abdominal_pain itching yellowish_skin lethargy yellowing_of_eyes malaise receiving_unsterile_injections yellow_urine loss_of_appetite
+Hepatitis C, yellowing_of_eyes nausea fatigue
+Hepatitis D, abdominal_pain yellowing_of_eyes nausea yellowish_skin dark_urine fatigue
+Hepatitis E, acute_liver_failure joint_pain fatigue yellowing_of_eyes stomach_bleeding vomiting coma loss_of_appetite abdominal_pain yellowish_skin
+Alcoholic hepatitis, yellowish_skin abdominal_pain swelling_of_stomach history_of_alcohol_consumption
+Tuberculosis, cough sweating blood_in_sputum weight_loss breathlessness mild_fever loss_of_appetite vomiting yellowing_of_eyes high_fever chest_pain phlegm fatigue
+Common Cold, cough congestion runny_nose swelled_lymph_nodes malaise muscle_pain phlegm fatigue sinus_pressure high_fever chills redness_of_eyes throat_irritation loss_of_smell
+Pneumonia, fast_heart_rate malaise rusty_sputum sweating phlegm cough chills breathlessness
+Dimorphic hemmorhoids(piles), pain_during_bowel_movements pain_in_anal_region
+Heart attack, sweating
+Varicose veins, cramps prominent_veins_on_calf bruising fatigue
+Hypothyroidism, lethargy brittle_nails puffy_face_and_eyes enlarged_thyroid depression fatigue weight_gain dizziness irritability swollen_extremeties
+Hyperthyroidism, restlessness weight_loss abnormal_menstruation diarrhoea mood_swings fast_heart_rate sweating fatigue
+Hypoglycemia, headache slurred_speech blurred_and_distorted_vision fatigue palpitations excessive_hunger irritability nausea anxiety
+Osteoarthristis, painful_walking knee_pain swelling_joints
+Arthritis, muscle_weakness movement_stiffness
+(vertigo) Paroymsal  Positional Vertigo, headache loss_of_balance vomiting
+Acne, scurring
+Urinary tract infection, foul_smell_ofurine
